@@ -1,0 +1,133 @@
+{
+  "name": "annual-housing-permits-by-town",
+  "datapackage_version": "1.0-beta.18",
+  "title": "Annual Housing Permits by Town",
+  "description": "Annual Housing Permits by Town reports the number of residential permits issued annually for new residential structures.",
+  "version": "1.0",
+  "licenses": [{
+    "url": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Open Data Commons Public Domain",
+    "version": "1.0",
+    "id": "odc-pddl"
+  }],
+  "sources": [{
+    "name": "ctdecd",
+    "web": ""
+  }],
+  "author":[{
+    "name": "Jenna Daly",
+    "email": "jdaly@ctdata.org",
+    "web": "http://ctdata.org"
+  }],
+  "contributor": [],
+  "resources": [{
+    "path": "data/data.csv",
+    "format": "csv",
+    "schema": {
+      "fields": [{
+          "name": "Town",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "FIPS",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Year",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Measure Type",
+          "type": "string",
+          "dimension": true
+        }, {
+          "name": "Variable",
+          "type": "string",
+          "dimension": true
+        }, {
+          "name": "Value",
+          "type": "number",
+          "dimension": false
+        }]
+      }
+    }
+  ],
+  "last_modified": "08/16/2017",
+  "ckan_extras": {
+    "full_description": {
+      "ckan_name": "Full Description",
+      "value": "Housing Permits reports the number of residential permits issued annually for new residential structures. The Department of Economic and Community Develpment (DECD) Research compiles this data annually. Data is also collected by the U.S. Census on a monthly basis but only for a sample of towns in Connecticut. This sample universe changed by the Census Bureau every ten years. From 2005 through 2015, this sample counted permits from 128 out of 169 towns in Connecticut. Beginning in 2015, the new survey sample counts permits from 104 out of 169 towns. The monthly data can be found on the Department of Economic and Community Development's website. CTData also carries Annual Housing Permits by County.",
+      "type": "string"
+    },
+    "suppression": {
+      "ckan_name": "Suppression",
+      "value": "",
+      "type": "string"
+    },
+    "technical_notes": {
+      "ckan_name": "Technical Notes",
+      "value": "Technical notes for advanced users",
+      "type": "string"
+    },
+    "socrata": {
+      "ckan_name": "Socrata",
+      "value": "False",,
+      "type": "string"
+    },
+    "socrata_url": {
+      "ckan_name": "Socrata Dataset URL",
+      "value": "",,
+      "type": "string"
+    },
+    "domain": {
+      "ckan_name": "Domain",
+      "value": "Housing",
+      "type": "string"
+    },
+    "subdomain": {
+      "ckan_name": "Subdomain",
+      "value": "Housing Characteristics",
+      "type": "string"
+    },
+    "geography": {
+      "ckan_name": "Geography",
+      "value": "Town",
+      "type": "string",
+      "constraints": {"enum": ["Town", "County", "Town/County", "District", "Other"]}
+    },
+    "frequency": {
+      "ckan_name": "Frequency",
+      "value": "Annual",
+      "type": "string"
+    },
+    "years_in_catalog": {
+      "ckan_name": "Years in Catalog",
+      "value": [],
+      "type": "array"
+    },
+    "latest_year": {
+      "ckan_name": "Latest Year Available",
+      "value": "2016",
+      "type": "string"
+    },
+    "disabled_views": {
+      "ckan_name": "Disabled Views",
+      "value": [],
+      "type": "array",
+      "constraints": {"enum": ["map", "table", "bar", "line"]}
+    },
+    "units": {
+      "ckan_name": "Units",
+      "value": {
+        "Number": "",
+        "Percent": "%"
+      }
+    },
+    "default": {}
+  },
+  "spot_checks": [],
+  "dimension_groups": [
+    {"Measure Type": []},
+    {"Variable": []}
+  ]
+}
