@@ -53,6 +53,8 @@
 "Andover","0901301080","2015","Percent","Housing Permits",0.1
 "Andover","0901301080","2016","Number","Housing Permits",3
 "Andover","0901301080","2016","Percent","Housing Permits",0.1
+"Andover","0901301080","2017","Number","Housing Permits",3
+"Andover","0901301080","2017","Percent","Housing Permits",0.1
 "Ansonia","0900901220","1990","Number","Housing Permits",15
 "Ansonia","0900901220","1990","Percent","Housing Permits",0.2
 "Ansonia","0900901220","1991","Number","Housing Permits",19
@@ -107,6 +109,8 @@
 "Ansonia","0900901220","2015","Percent","Housing Permits",0
 "Ansonia","0900901220","2016","Number","Housing Permits",0
 "Ansonia","0900901220","2016","Percent","Housing Permits",0
+"Ansonia","0900901220","2017","Number","Housing Permits",6
+"Ansonia","0900901220","2017","Percent","Housing Permits",0.1
 "Ashford","0901501430","1990","Number","Housing Permits",24
 "Ashford","0901501430","1990","Percent","Housing Permits",0.3
 "Ashford","0901501430","1991","Number","Housing Permits",19
@@ -161,6 +165,8 @@
 "Ashford","0901501430","2015","Percent","Housing Permits",0
 "Ashford","0901501430","2016","Number","Housing Permits",7
 "Ashford","0901501430","2016","Percent","Housing Permits",0.1
+"Ashford","0901501430","2017","Number","Housing Permits",8
+"Ashford","0901501430","2017","Percent","Housing Permits",0.2
 "Avon","0900302060","1990","Number","Housing Permits",30
 "Avon","0900302060","1990","Percent","Housing Permits",0.4
 "Avon","0900302060","1991","Number","Housing Permits",39
@@ -215,6 +221,8 @@
 "Avon","0900302060","2015","Percent","Housing Permits",0.5
 "Avon","0900302060","2016","Number","Housing Permits",19
 "Avon","0900302060","2016","Percent","Housing Permits",0.3
+"Avon","0900302060","2017","Number","Housing Permits",20
+"Avon","0900302060","2017","Percent","Housing Permits",0.4
 "Barkhamsted","0900502760","1990","Number","Housing Permits",15
 "Barkhamsted","0900502760","1990","Percent","Housing Permits",0.2
 "Barkhamsted","0900502760","1991","Number","Housing Permits",12
@@ -269,6 +277,8 @@
 "Barkhamsted","0900502760","2015","Percent","Housing Permits",0
 "Barkhamsted","0900502760","2016","Number","Housing Permits",0
 "Barkhamsted","0900502760","2016","Percent","Housing Permits",0
+"Barkhamsted","0900502760","2017","Number","Housing Permits",0
+"Barkhamsted","0900502760","2017","Percent","Housing Permits",0
 "Beacon Falls","0900903250","1990","Number","Housing Permits",18
 "Beacon Falls","0900903250","1990","Percent","Housing Permits",0.2
 "Beacon Falls","0900903250","1991","Number","Housing Permits",22
@@ -323,6 +333,8 @@
 "Beacon Falls","0900903250","2015","Percent","Housing Permits",0.3
 "Beacon Falls","0900903250","2016","Number","Housing Permits",23
 "Beacon Falls","0900903250","2016","Percent","Housing Permits",0.4
+"Beacon Falls","0900903250","2017","Number","Housing Permits",22
+"Beacon Falls","0900903250","2017","Percent","Housing Permits",0.5
 "Berlin","0900304300","1990","Number","Housing Permits",69
 "Berlin","0900304300","1990","Percent","Housing Permits",0.9
 "Berlin","0900304300","1991","Number","Housing Permits",83
@@ -377,6 +389,8 @@
 "Berlin","0900304300","2015","Percent","Housing Permits",0.5
 "Berlin","0900304300","2016","Number","Housing Permits",11
 "Berlin","0900304300","2016","Percent","Housing Permits",0.2
+"Berlin","0900304300","2017","Number","Housing Permits",14
+"Berlin","0900304300","2017","Percent","Housing Permits",0.3
 "Bethany","0900904580","1990","Number","Housing Permits",12
 "Bethany","0900904580","1990","Percent","Housing Permits",0.2
 "Bethany","0900904580","1991","Number","Housing Permits",16
@@ -431,6 +445,8 @@
 "Bethany","0900904580","2015","Percent","Housing Permits",0
 "Bethany","0900904580","2016","Number","Housing Permits",3
 "Bethany","0900904580","2016","Percent","Housing Permits",0.1
+"Bethany","0900904580","2017","Number","Housing Permits",2
+"Bethany","0900904580","2017","Percent","Housing Permits",0
 "Bethel","0900104720","1990","Number","Housing Permits",19
 "Bethel","0900104720","1990","Percent","Housing Permits",0.2
 "Bethel","0900104720","1991","Number","Housing Permits",38
@@ -485,6 +501,8 @@
 "Bethel","0900104720","2015","Percent","Housing Permits",1.9
 "Bethel","0900104720","2016","Number","Housing Permits",68
 "Bethel","0900104720","2016","Percent","Housing Permits",1.2
+"Bethel","0900104720","2017","Number","Housing Permits",62
+"Bethel","0900104720","2017","Percent","Housing Permits",1.4
 "Bethlehem","0900504930","1990","Number","Housing Permits",15
 "Bethlehem","0900504930","1990","Percent","Housing Permits",0.2
 "Bethlehem","0900504930","1991","Number","Housing Permits",9
@@ -539,6 +557,8 @@
 "Bethlehem","0900504930","2015","Percent","Housing Permits",0
 "Bethlehem","0900504930","2016","Number","Housing Permits",2
 "Bethlehem","0900504930","2016","Percent","Housing Permits",0
+"Bethlehem","0900504930","2017","Number","Housing Permits",2
+"Bethlehem","0900504930","2017","Percent","Housing Permits",0
 "Bloomfield","0900305910","1990","Number","Housing Permits",18
 "Bloomfield","0900305910","1990","Percent","Housing Permits",0.2
 "Bloomfield","0900305910","1991","Number","Housing Permits",113
@@ -593,6 +613,8 @@
 "Bloomfield","0900305910","2015","Percent","Housing Permits",0.3
 "Bloomfield","0900305910","2016","Number","Housing Permits",411
 "Bloomfield","0900305910","2016","Percent","Housing Permits",7.5
+"Bloomfield","0900305910","2017","Number","Housing Permits",3
+"Bloomfield","0900305910","2017","Percent","Housing Permits",0.1
 "Bolton","0901306260","1990","Number","Housing Permits",4
 "Bolton","0901306260","1990","Percent","Housing Permits",0.1
 "Bolton","0901306260","1991","Number","Housing Permits",8
@@ -647,6 +669,8 @@
 "Bolton","0901306260","2015","Percent","Housing Permits",0.1
 "Bolton","0901306260","2016","Number","Housing Permits",4
 "Bolton","0901306260","2016","Percent","Housing Permits",0.1
+"Bolton","0901306260","2017","Number","Housing Permits",3
+"Bolton","0901306260","2017","Percent","Housing Permits",0.1
 "Bozrah","0901106820","1990","Number","Housing Permits",10
 "Bozrah","0901106820","1990","Percent","Housing Permits",0.1
 "Bozrah","0901106820","1991","Number","Housing Permits",7
@@ -701,6 +725,8 @@
 "Bozrah","0901106820","2015","Percent","Housing Permits",0
 "Bozrah","0901106820","2016","Number","Housing Permits",1
 "Bozrah","0901106820","2016","Percent","Housing Permits",0
+"Bozrah","0901106820","2017","Number","Housing Permits",0
+"Bozrah","0901106820","2017","Percent","Housing Permits",0
 "Branford","0900907310","1990","Number","Housing Permits",87
 "Branford","0900907310","1990","Percent","Housing Permits",1.1
 "Branford","0900907310","1991","Number","Housing Permits",63
@@ -755,6 +781,8 @@
 "Branford","0900907310","2015","Percent","Housing Permits",0.4
 "Branford","0900907310","2016","Number","Housing Permits",27
 "Branford","0900907310","2016","Percent","Housing Permits",0.5
+"Branford","0900907310","2017","Number","Housing Permits",30
+"Branford","0900907310","2017","Percent","Housing Permits",0.7
 "Bridgeport","0900108070","1990","Number","Housing Permits",85
 "Bridgeport","0900108070","1990","Percent","Housing Permits",1.1
 "Bridgeport","0900108070","1991","Number","Housing Permits",160
@@ -809,6 +837,8 @@
 "Bridgeport","0900108070","2015","Percent","Housing Permits",2
 "Bridgeport","0900108070","2016","Number","Housing Permits",69
 "Bridgeport","0900108070","2016","Percent","Housing Permits",1.3
+"Bridgeport","0900108070","2017","Number","Housing Permits",31
+"Bridgeport","0900108070","2017","Percent","Housing Permits",0.7
 "Bridgewater","0900508210","1990","Number","Housing Permits",6
 "Bridgewater","0900508210","1990","Percent","Housing Permits",0.1
 "Bridgewater","0900508210","1991","Number","Housing Permits",9
@@ -863,6 +893,8 @@
 "Bridgewater","0900508210","2015","Percent","Housing Permits",0
 "Bridgewater","0900508210","2016","Number","Housing Permits",0
 "Bridgewater","0900508210","2016","Percent","Housing Permits",0
+"Bridgewater","0900508210","2017","Number","Housing Permits",1
+"Bridgewater","0900508210","2017","Percent","Housing Permits",0
 "Bristol","0900308490","1990","Number","Housing Permits",90
 "Bristol","0900308490","1990","Percent","Housing Permits",1.1
 "Bristol","0900308490","1991","Number","Housing Permits",128
@@ -917,6 +949,8 @@
 "Bristol","0900308490","2015","Percent","Housing Permits",0.5
 "Bristol","0900308490","2016","Number","Housing Permits",37
 "Bristol","0900308490","2016","Percent","Housing Permits",0.7
+"Bristol","0900308490","2017","Number","Housing Permits",42
+"Bristol","0900308490","2017","Percent","Housing Permits",0.9
 "Brookfield","0900108980","1990","Number","Housing Permits",44
 "Brookfield","0900108980","1990","Percent","Housing Permits",0.6
 "Brookfield","0900108980","1991","Number","Housing Permits",30
@@ -971,6 +1005,8 @@
 "Brookfield","0900108980","2015","Percent","Housing Permits",0.8
 "Brookfield","0900108980","2016","Number","Housing Permits",28
 "Brookfield","0900108980","2016","Percent","Housing Permits",0.5
+"Brookfield","0900108980","2017","Number","Housing Permits",22
+"Brookfield","0900108980","2017","Percent","Housing Permits",0.5
 "Brooklyn","0901509190","1990","Number","Housing Permits",29
 "Brooklyn","0901509190","1990","Percent","Housing Permits",0.4
 "Brooklyn","0901509190","1991","Number","Housing Permits",22
@@ -1025,6 +1061,8 @@
 "Brooklyn","0901509190","2015","Percent","Housing Permits",0.1
 "Brooklyn","0901509190","2016","Number","Housing Permits",10
 "Brooklyn","0901509190","2016","Percent","Housing Permits",0.2
+"Brooklyn","0901509190","2017","Number","Housing Permits",14
+"Brooklyn","0901509190","2017","Percent","Housing Permits",0.3
 "Burlington","0900310100","1990","Number","Housing Permits",39
 "Burlington","0900310100","1990","Percent","Housing Permits",0.5
 "Burlington","0900310100","1991","Number","Housing Permits",38
@@ -1079,6 +1117,8 @@
 "Burlington","0900310100","2015","Percent","Housing Permits",0.3
 "Burlington","0900310100","2016","Number","Housing Permits",20
 "Burlington","0900310100","2016","Percent","Housing Permits",0.4
+"Burlington","0900310100","2017","Number","Housing Permits",27
+"Burlington","0900310100","2017","Percent","Housing Permits",0.6
 "Canaan","0900510940","1990","Number","Housing Permits",2
 "Canaan","0900510940","1990","Percent","Housing Permits",0
 "Canaan","0900510940","1991","Number","Housing Permits",3
@@ -1133,6 +1173,8 @@
 "Canaan","0900510940","2015","Percent","Housing Permits",0
 "Canaan","0900510940","2016","Number","Housing Permits",0
 "Canaan","0900510940","2016","Percent","Housing Permits",0
+"Canaan","0900510940","2017","Number","Housing Permits",0
+"Canaan","0900510940","2017","Percent","Housing Permits",0
 "Canterbury","0901512130","1990","Number","Housing Permits",14
 "Canterbury","0901512130","1990","Percent","Housing Permits",0.2
 "Canterbury","0901512130","1991","Number","Housing Permits",22
@@ -1187,6 +1229,8 @@
 "Canterbury","0901512130","2015","Percent","Housing Permits",0
 "Canterbury","0901512130","2016","Number","Housing Permits",10
 "Canterbury","0901512130","2016","Percent","Housing Permits",0.2
+"Canterbury","0901512130","2017","Number","Housing Permits",2
+"Canterbury","0901512130","2017","Percent","Housing Permits",0
 "Canton","0900312270","1990","Number","Housing Permits",14
 "Canton","0900312270","1990","Percent","Housing Permits",0.2
 "Canton","0900312270","1991","Number","Housing Permits",13
@@ -1241,6 +1285,8 @@
 "Canton","0900312270","2015","Percent","Housing Permits",0.2
 "Canton","0900312270","2016","Number","Housing Permits",5
 "Canton","0900312270","2016","Percent","Housing Permits",0.1
+"Canton","0900312270","2017","Number","Housing Permits",10
+"Canton","0900312270","2017","Percent","Housing Permits",0.2
 "Chaplin","0901513810","1990","Number","Housing Permits",12
 "Chaplin","0901513810","1990","Percent","Housing Permits",0.2
 "Chaplin","0901513810","1991","Number","Housing Permits",12
@@ -1295,6 +1341,8 @@
 "Chaplin","0901513810","2015","Percent","Housing Permits",0
 "Chaplin","0901513810","2016","Number","Housing Permits",1
 "Chaplin","0901513810","2016","Percent","Housing Permits",0
+"Chaplin","0901513810","2017","Number","Housing Permits",2
+"Chaplin","0901513810","2017","Percent","Housing Permits",0
 "Cheshire","0900914160","1990","Number","Housing Permits",79
 "Cheshire","0900914160","1990","Percent","Housing Permits",1
 "Cheshire","0900914160","1991","Number","Housing Permits",84
@@ -1349,6 +1397,8 @@
 "Cheshire","0900914160","2015","Percent","Housing Permits",0.7
 "Cheshire","0900914160","2016","Number","Housing Permits",29
 "Cheshire","0900914160","2016","Percent","Housing Permits",0.5
+"Cheshire","0900914160","2017","Number","Housing Permits",22
+"Cheshire","0900914160","2017","Percent","Housing Permits",0.5
 "Chester","0900714300","1990","Number","Housing Permits",10
 "Chester","0900714300","1990","Percent","Housing Permits",0.1
 "Chester","0900714300","1991","Number","Housing Permits",39
@@ -1403,6 +1453,8 @@
 "Chester","0900714300","2015","Percent","Housing Permits",0
 "Chester","0900714300","2016","Number","Housing Permits",4
 "Chester","0900714300","2016","Percent","Housing Permits",0.1
+"Chester","0900714300","2017","Number","Housing Permits",3
+"Chester","0900714300","2017","Percent","Housing Permits",0.1
 "Clinton","0900715350","1990","Number","Housing Permits",15
 "Clinton","0900715350","1990","Percent","Housing Permits",0.2
 "Clinton","0900715350","1991","Number","Housing Permits",26
@@ -1457,6 +1509,8 @@
 "Clinton","0900715350","2015","Percent","Housing Permits",0.1
 "Clinton","0900715350","2016","Number","Housing Permits",13
 "Clinton","0900715350","2016","Percent","Housing Permits",0.2
+"Clinton","0900715350","2017","Number","Housing Permits",45
+"Clinton","0900715350","2017","Percent","Housing Permits",1
 "Colchester","0901115910","1990","Number","Housing Permits",84
 "Colchester","0901115910","1990","Percent","Housing Permits",1.1
 "Colchester","0901115910","1991","Number","Housing Permits",89
@@ -1511,6 +1565,8 @@
 "Colchester","0901115910","2015","Percent","Housing Permits",0.5
 "Colchester","0901115910","2016","Number","Housing Permits",63
 "Colchester","0901115910","2016","Percent","Housing Permits",1.1
+"Colchester","0901115910","2017","Number","Housing Permits",35
+"Colchester","0901115910","2017","Percent","Housing Permits",0.8
 "Colebrook","0900516050","1990","Number","Housing Permits",8
 "Colebrook","0900516050","1990","Percent","Housing Permits",0.1
 "Colebrook","0900516050","1991","Number","Housing Permits",6
@@ -1565,6 +1621,8 @@
 "Colebrook","0900516050","2015","Percent","Housing Permits",0
 "Colebrook","0900516050","2016","Number","Housing Permits",0
 "Colebrook","0900516050","2016","Percent","Housing Permits",0
+"Colebrook","0900516050","2017","Number","Housing Permits",0
+"Colebrook","0900516050","2017","Percent","Housing Permits",0
 "Columbia","0901316400","1990","Number","Housing Permits",16
 "Columbia","0901316400","1990","Percent","Housing Permits",0.2
 "Columbia","0901316400","1991","Number","Housing Permits",26
@@ -1619,6 +1677,8 @@
 "Columbia","0901316400","2015","Percent","Housing Permits",0.2
 "Columbia","0901316400","2016","Number","Housing Permits",7
 "Columbia","0901316400","2016","Percent","Housing Permits",0.1
+"Columbia","0901316400","2017","Number","Housing Permits",3
+"Columbia","0901316400","2017","Percent","Housing Permits",0.1
 "Connecticut","09","1990","Number","Housing Permits",7832
 "Connecticut","09","1991","Number","Housing Permits",7694
 "Connecticut","09","1992","Number","Housing Permits",8280
@@ -1646,6 +1706,7 @@
 "Connecticut","09","2014","Number","Housing Permits",5329
 "Connecticut","09","2015","Number","Housing Permits",6077
 "Connecticut","09","2016","Number","Housing Permits",5504
+"Connecticut","09","2017","Number","Housing Permits",4547
 "Cornwall","0900517240","1990","Number","Housing Permits",13
 "Cornwall","0900517240","1990","Percent","Housing Permits",0.2
 "Cornwall","0900517240","1991","Number","Housing Permits",6
@@ -1700,6 +1761,8 @@
 "Cornwall","0900517240","2015","Percent","Housing Permits",0
 "Cornwall","0900517240","2016","Number","Housing Permits",2
 "Cornwall","0900517240","2016","Percent","Housing Permits",0
+"Cornwall","0900517240","2017","Number","Housing Permits",1
+"Cornwall","0900517240","2017","Percent","Housing Permits",0
 "Coventry","0901317800","1990","Number","Housing Permits",67
 "Coventry","0901317800","1990","Percent","Housing Permits",0.9
 "Coventry","0901317800","1991","Number","Housing Permits",65
@@ -1754,6 +1817,8 @@
 "Coventry","0901317800","2015","Percent","Housing Permits",0.5
 "Coventry","0901317800","2016","Number","Housing Permits",19
 "Coventry","0901317800","2016","Percent","Housing Permits",0.3
+"Coventry","0901317800","2017","Number","Housing Permits",27
+"Coventry","0901317800","2017","Percent","Housing Permits",0.6
 "Cromwell","0900718080","1990","Number","Housing Permits",14
 "Cromwell","0900718080","1990","Percent","Housing Permits",0.2
 "Cromwell","0900718080","1991","Number","Housing Permits",16
@@ -1808,6 +1873,8 @@
 "Cromwell","0900718080","2015","Percent","Housing Permits",0.3
 "Cromwell","0900718080","2016","Number","Housing Permits",18
 "Cromwell","0900718080","2016","Percent","Housing Permits",0.3
+"Cromwell","0900718080","2017","Number","Housing Permits",14
+"Cromwell","0900718080","2017","Percent","Housing Permits",0.3
 "Danbury","0900118500","1990","Number","Housing Permits",67
 "Danbury","0900118500","1990","Percent","Housing Permits",0.9
 "Danbury","0900118500","1991","Number","Housing Permits",89
@@ -1862,6 +1929,8 @@
 "Danbury","0900118500","2015","Percent","Housing Permits",9.1
 "Danbury","0900118500","2016","Number","Housing Permits",82
 "Danbury","0900118500","2016","Percent","Housing Permits",1.5
+"Danbury","0900118500","2017","Number","Housing Permits",155
+"Danbury","0900118500","2017","Percent","Housing Permits",3.4
 "Darien","0900118850","1990","Number","Housing Permits",9
 "Darien","0900118850","1990","Percent","Housing Permits",0.1
 "Darien","0900118850","1991","Number","Housing Permits",14
@@ -1916,6 +1985,8 @@
 "Darien","0900118850","2015","Percent","Housing Permits",1.1
 "Darien","0900118850","2016","Number","Housing Permits",30
 "Darien","0900118850","2016","Percent","Housing Permits",0.5
+"Darien","0900118850","2017","Number","Housing Permits",35
+"Darien","0900118850","2017","Percent","Housing Permits",0.8
 "Deep River","0900719130","1990","Number","Housing Permits",13
 "Deep River","0900719130","1990","Percent","Housing Permits",0.2
 "Deep River","0900719130","1991","Number","Housing Permits",8
@@ -1970,6 +2041,8 @@
 "Deep River","0900719130","2015","Percent","Housing Permits",0
 "Deep River","0900719130","2016","Number","Housing Permits",2
 "Deep River","0900719130","2016","Percent","Housing Permits",0
+"Deep River","0900719130","2017","Number","Housing Permits",2
+"Deep River","0900719130","2017","Percent","Housing Permits",0
 "Derby","0900919550","1990","Number","Housing Permits",17
 "Derby","0900919550","1990","Percent","Housing Permits",0.2
 "Derby","0900919550","1991","Number","Housing Permits",13
@@ -2024,6 +2097,8 @@
 "Derby","0900919550","2015","Percent","Housing Permits",0.1
 "Derby","0900919550","2016","Number","Housing Permits",2
 "Derby","0900919550","2016","Percent","Housing Permits",0
+"Derby","0900919550","2017","Number","Housing Permits",5
+"Derby","0900919550","2017","Percent","Housing Permits",0.1
 "Durham","0900720810","1990","Number","Housing Permits",24
 "Durham","0900720810","1990","Percent","Housing Permits",0.3
 "Durham","0900720810","1991","Number","Housing Permits",31
@@ -2078,6 +2153,8 @@
 "Durham","0900720810","2015","Percent","Housing Permits",0.1
 "Durham","0900720810","2016","Number","Housing Permits",6
 "Durham","0900720810","2016","Percent","Housing Permits",0.1
+"Durham","0900720810","2017","Number","Housing Permits",4
+"Durham","0900720810","2017","Percent","Housing Permits",0.1
 "Eastford","0901521860","1990","Number","Housing Permits",14
 "Eastford","0901521860","1990","Percent","Housing Permits",0.2
 "Eastford","0901521860","1991","Number","Housing Permits",8
@@ -2132,6 +2209,8 @@
 "Eastford","0901521860","2015","Percent","Housing Permits",0
 "Eastford","0901521860","2016","Number","Housing Permits",3
 "Eastford","0901521860","2016","Percent","Housing Permits",0.1
+"Eastford","0901521860","2017","Number","Housing Permits",4
+"Eastford","0901521860","2017","Percent","Housing Permits",0.1
 "East Granby","0900322070","1990","Number","Housing Permits",11
 "East Granby","0900322070","1990","Percent","Housing Permits",0.1
 "East Granby","0900322070","1991","Number","Housing Permits",19
@@ -2186,6 +2265,8 @@
 "East Granby","0900322070","2015","Percent","Housing Permits",0
 "East Granby","0900322070","2016","Number","Housing Permits",4
 "East Granby","0900322070","2016","Percent","Housing Permits",0.1
+"East Granby","0900322070","2017","Number","Housing Permits",3
+"East Granby","0900322070","2017","Percent","Housing Permits",0.1
 "East Haddam","0900722280","1990","Number","Housing Permits",63
 "East Haddam","0900722280","1990","Percent","Housing Permits",0.8
 "East Haddam","0900722280","1991","Number","Housing Permits",66
@@ -2240,6 +2321,8 @@
 "East Haddam","0900722280","2015","Percent","Housing Permits",0.1
 "East Haddam","0900722280","2016","Number","Housing Permits",17
 "East Haddam","0900722280","2016","Percent","Housing Permits",0.3
+"East Haddam","0900722280","2017","Number","Housing Permits",11
+"East Haddam","0900722280","2017","Percent","Housing Permits",0.2
 "East Hampton","0900722490","1990","Number","Housing Permits",45
 "East Hampton","0900722490","1990","Percent","Housing Permits",0.6
 "East Hampton","0900722490","1991","Number","Housing Permits",65
@@ -2294,6 +2377,8 @@
 "East Hampton","0900722490","2015","Percent","Housing Permits",0.8
 "East Hampton","0900722490","2016","Number","Housing Permits",24
 "East Hampton","0900722490","2016","Percent","Housing Permits",0.4
+"East Hampton","0900722490","2017","Number","Housing Permits",22
+"East Hampton","0900722490","2017","Percent","Housing Permits",0.5
 "East Hartford","0900322630","1990","Number","Housing Permits",15
 "East Hartford","0900322630","1990","Percent","Housing Permits",0.2
 "East Hartford","0900322630","1991","Number","Housing Permits",40
@@ -2348,6 +2433,8 @@
 "East Hartford","0900322630","2015","Percent","Housing Permits",0
 "East Hartford","0900322630","2016","Number","Housing Permits",1
 "East Hartford","0900322630","2016","Percent","Housing Permits",0
+"East Hartford","0900322630","2017","Number","Housing Permits",3
+"East Hartford","0900322630","2017","Percent","Housing Permits",0.1
 "East Haven","0900922910","1990","Number","Housing Permits",98
 "East Haven","0900922910","1990","Percent","Housing Permits",1.3
 "East Haven","0900922910","1991","Number","Housing Permits",108
@@ -2402,6 +2489,8 @@
 "East Haven","0900922910","2015","Percent","Housing Permits",0.3
 "East Haven","0900922910","2016","Number","Housing Permits",6
 "East Haven","0900922910","2016","Percent","Housing Permits",0.1
+"East Haven","0900922910","2017","Number","Housing Permits",2
+"East Haven","0900922910","2017","Percent","Housing Permits",0
 "East Lyme","0901123400","1990","Number","Housing Permits",30
 "East Lyme","0901123400","1990","Percent","Housing Permits",0.4
 "East Lyme","0901123400","1991","Number","Housing Permits",174
@@ -2456,6 +2545,8 @@
 "East Lyme","0901123400","2015","Percent","Housing Permits",1.7
 "East Lyme","0901123400","2016","Number","Housing Permits",28
 "East Lyme","0901123400","2016","Percent","Housing Permits",0.5
+"East Lyme","0901123400","2017","Number","Housing Permits",31
+"East Lyme","0901123400","2017","Percent","Housing Permits",0.7
 "Easton","0900123890","1990","Number","Housing Permits",9
 "Easton","0900123890","1990","Percent","Housing Permits",0.1
 "Easton","0900123890","1991","Number","Housing Permits",17
@@ -2510,6 +2601,8 @@
 "Easton","0900123890","2015","Percent","Housing Permits",0.1
 "Easton","0900123890","2016","Number","Housing Permits",6
 "Easton","0900123890","2016","Percent","Housing Permits",0.1
+"Easton","0900123890","2017","Number","Housing Permits",7
+"Easton","0900123890","2017","Percent","Housing Permits",0.2
 "East Windsor","0900324800","1990","Number","Housing Permits",33
 "East Windsor","0900324800","1990","Percent","Housing Permits",0.4
 "East Windsor","0900324800","1991","Number","Housing Permits",10
@@ -2564,6 +2657,8 @@
 "East Windsor","0900324800","2015","Percent","Housing Permits",0.2
 "East Windsor","0900324800","2016","Number","Housing Permits",20
 "East Windsor","0900324800","2016","Percent","Housing Permits",0.4
+"East Windsor","0900324800","2017","Number","Housing Permits",17
+"East Windsor","0900324800","2017","Percent","Housing Permits",0.4
 "Ellington","0901325360","1990","Number","Housing Permits",41
 "Ellington","0901325360","1990","Percent","Housing Permits",0.5
 "Ellington","0901325360","1991","Number","Housing Permits",28
@@ -2618,6 +2713,8 @@
 "Ellington","0901325360","2015","Percent","Housing Permits",1.8
 "Ellington","0901325360","2016","Number","Housing Permits",90
 "Ellington","0901325360","2016","Percent","Housing Permits",1.6
+"Ellington","0901325360","2017","Number","Housing Permits",100
+"Ellington","0901325360","2017","Percent","Housing Permits",2.2
 "Enfield","0900325990","1990","Number","Housing Permits",90
 "Enfield","0900325990","1990","Percent","Housing Permits",1.1
 "Enfield","0900325990","1991","Number","Housing Permits",30
@@ -2672,6 +2769,8 @@
 "Enfield","0900325990","2015","Percent","Housing Permits",0.3
 "Enfield","0900325990","2016","Number","Housing Permits",103
 "Enfield","0900325990","2016","Percent","Housing Permits",1.9
+"Enfield","0900325990","2017","Number","Housing Permits",57
+"Enfield","0900325990","2017","Percent","Housing Permits",1.3
 "Essex","0900726270","1990","Number","Housing Permits",11
 "Essex","0900726270","1990","Percent","Housing Permits",0.1
 "Essex","0900726270","1991","Number","Housing Permits",11
@@ -2726,6 +2825,8 @@
 "Essex","0900726270","2015","Percent","Housing Permits",0.1
 "Essex","0900726270","2016","Number","Housing Permits",32
 "Essex","0900726270","2016","Percent","Housing Permits",0.6
+"Essex","0900726270","2017","Number","Housing Permits",70
+"Essex","0900726270","2017","Percent","Housing Permits",1.5
 "Fairfield","0900126620","1990","Number","Housing Permits",37
 "Fairfield","0900126620","1990","Percent","Housing Permits",0.5
 "Fairfield","0900126620","1991","Number","Housing Permits",65
@@ -2780,6 +2881,8 @@
 "Fairfield","0900126620","2015","Percent","Housing Permits",1.6
 "Fairfield","0900126620","2016","Number","Housing Permits",258
 "Fairfield","0900126620","2016","Percent","Housing Permits",4.7
+"Fairfield","0900126620","2017","Number","Housing Permits",111
+"Fairfield","0900126620","2017","Percent","Housing Permits",2.4
 "Farmington","0900327600","1990","Number","Housing Permits",59
 "Farmington","0900327600","1990","Percent","Housing Permits",0.8
 "Farmington","0900327600","1991","Number","Housing Permits",100
@@ -2834,6 +2937,8 @@
 "Farmington","0900327600","2015","Percent","Housing Permits",0.5
 "Farmington","0900327600","2016","Number","Housing Permits",41
 "Farmington","0900327600","2016","Percent","Housing Permits",0.7
+"Farmington","0900327600","2017","Number","Housing Permits",33
+"Farmington","0900327600","2017","Percent","Housing Permits",0.7
 "Franklin","0901129910","1990","Number","Housing Permits",6
 "Franklin","0901129910","1990","Percent","Housing Permits",0.1
 "Franklin","0901129910","1991","Number","Housing Permits",6
@@ -2888,6 +2993,8 @@
 "Franklin","0901129910","2015","Percent","Housing Permits",0
 "Franklin","0901129910","2016","Number","Housing Permits",2
 "Franklin","0901129910","2016","Percent","Housing Permits",0
+"Franklin","0901129910","2017","Number","Housing Permits",3
+"Franklin","0901129910","2017","Percent","Housing Permits",0.1
 "Glastonbury","0900331240","1990","Number","Housing Permits",73
 "Glastonbury","0900331240","1990","Percent","Housing Permits",0.9
 "Glastonbury","0900331240","1991","Number","Housing Permits",129
@@ -2942,6 +3049,8 @@
 "Glastonbury","0900331240","2015","Percent","Housing Permits",0.7
 "Glastonbury","0900331240","2016","Number","Housing Permits",34
 "Glastonbury","0900331240","2016","Percent","Housing Permits",0.6
+"Glastonbury","0900331240","2017","Number","Housing Permits",38
+"Glastonbury","0900331240","2017","Percent","Housing Permits",0.8
 "Goshen","0900532290","1990","Number","Housing Permits",17
 "Goshen","0900532290","1990","Percent","Housing Permits",0.2
 "Goshen","0900532290","1991","Number","Housing Permits",8
@@ -2996,6 +3105,8 @@
 "Goshen","0900532290","2015","Percent","Housing Permits",0
 "Goshen","0900532290","2016","Number","Housing Permits",4
 "Goshen","0900532290","2016","Percent","Housing Permits",0.1
+"Goshen","0900532290","2017","Number","Housing Permits",7
+"Goshen","0900532290","2017","Percent","Housing Permits",0.2
 "Granby","0900332640","1990","Number","Housing Permits",20
 "Granby","0900332640","1990","Percent","Housing Permits",0.3
 "Granby","0900332640","1991","Number","Housing Permits",15
@@ -3050,6 +3161,8 @@
 "Granby","0900332640","2015","Percent","Housing Permits",0.1
 "Granby","0900332640","2016","Number","Housing Permits",49
 "Granby","0900332640","2016","Percent","Housing Permits",0.9
+"Granby","0900332640","2017","Number","Housing Permits",28
+"Granby","0900332640","2017","Percent","Housing Permits",0.6
 "Greenwich","0900133620","1990","Number","Housing Permits",166
 "Greenwich","0900133620","1990","Percent","Housing Permits",2.1
 "Greenwich","0900133620","1991","Number","Housing Permits",70
@@ -3104,6 +3217,8 @@
 "Greenwich","0900133620","2015","Percent","Housing Permits",2.3
 "Greenwich","0900133620","2016","Number","Housing Permits",128
 "Greenwich","0900133620","2016","Percent","Housing Permits",2.3
+"Greenwich","0900133620","2017","Number","Housing Permits",250
+"Greenwich","0900133620","2017","Percent","Housing Permits",5.5
 "Griswold","0901133900","1990","Number","Housing Permits",56
 "Griswold","0901133900","1990","Percent","Housing Permits",0.7
 "Griswold","0901133900","1991","Number","Housing Permits",22
@@ -3158,6 +3273,8 @@
 "Griswold","0901133900","2015","Percent","Housing Permits",0.1
 "Griswold","0901133900","2016","Number","Housing Permits",11
 "Griswold","0901133900","2016","Percent","Housing Permits",0.2
+"Griswold","0901133900","2017","Number","Housing Permits",6
+"Griswold","0901133900","2017","Percent","Housing Permits",0.1
 "Groton","0901134250","1990","Number","Housing Permits",52
 "Groton","0901134250","1990","Percent","Housing Permits",0.7
 "Groton","0901134250","1991","Number","Housing Permits",46
@@ -3212,6 +3329,8 @@
 "Groton","0901134250","2015","Percent","Housing Permits",0.4
 "Groton","0901134250","2016","Number","Housing Permits",21
 "Groton","0901134250","2016","Percent","Housing Permits",0.4
+"Groton","0901134250","2017","Number","Housing Permits",36
+"Groton","0901134250","2017","Percent","Housing Permits",0.8
 "Guilford","0900934950","1990","Number","Housing Permits",37
 "Guilford","0900934950","1990","Percent","Housing Permits",0.5
 "Guilford","0900934950","1991","Number","Housing Permits",55
@@ -3266,6 +3385,8 @@
 "Guilford","0900934950","2015","Percent","Housing Permits",0.3
 "Guilford","0900934950","2016","Number","Housing Permits",12
 "Guilford","0900934950","2016","Percent","Housing Permits",0.2
+"Guilford","0900934950","2017","Number","Housing Permits",23
+"Guilford","0900934950","2017","Percent","Housing Permits",0.5
 "Haddam","0900735230","1990","Number","Housing Permits",29
 "Haddam","0900735230","1990","Percent","Housing Permits",0.4
 "Haddam","0900735230","1991","Number","Housing Permits",32
@@ -3320,6 +3441,8 @@
 "Haddam","0900735230","2015","Percent","Housing Permits",0.2
 "Haddam","0900735230","2016","Number","Housing Permits",9
 "Haddam","0900735230","2016","Percent","Housing Permits",0.2
+"Haddam","0900735230","2017","Number","Housing Permits",9
+"Haddam","0900735230","2017","Percent","Housing Permits",0.2
 "Hamden","0900935650","1990","Number","Housing Permits",87
 "Hamden","0900935650","1990","Percent","Housing Permits",1.1
 "Hamden","0900935650","1991","Number","Housing Permits",507
@@ -3374,6 +3497,8 @@
 "Hamden","0900935650","2015","Percent","Housing Permits",0.5
 "Hamden","0900935650","2016","Number","Housing Permits",31
 "Hamden","0900935650","2016","Percent","Housing Permits",0.6
+"Hamden","0900935650","2017","Number","Housing Permits",30
+"Hamden","0900935650","2017","Percent","Housing Permits",0.7
 "Hampton","0901536000","1990","Number","Housing Permits",9
 "Hampton","0901536000","1990","Percent","Housing Permits",0.1
 "Hampton","0901536000","1991","Number","Housing Permits",2
@@ -3428,6 +3553,8 @@
 "Hampton","0901536000","2015","Percent","Housing Permits",0
 "Hampton","0901536000","2016","Number","Housing Permits",0
 "Hampton","0901536000","2016","Percent","Housing Permits",0
+"Hampton","0901536000","2017","Number","Housing Permits",0
+"Hampton","0901536000","2017","Percent","Housing Permits",0
 "Hartford","0900337070","1990","Number","Housing Permits",405
 "Hartford","0900337070","1990","Percent","Housing Permits",5.2
 "Hartford","0900337070","1991","Number","Housing Permits",84
@@ -3482,6 +3609,8 @@
 "Hartford","0900337070","2015","Percent","Housing Permits",0.1
 "Hartford","0900337070","2016","Number","Housing Permits",5
 "Hartford","0900337070","2016","Percent","Housing Permits",0.1
+"Hartford","0900337070","2017","Number","Housing Permits",5
+"Hartford","0900337070","2017","Percent","Housing Permits",0.1
 "Hartland","0900337140","1990","Number","Housing Permits",6
 "Hartland","0900337140","1990","Percent","Housing Permits",0.1
 "Hartland","0900337140","1991","Number","Housing Permits",9
@@ -3536,6 +3665,8 @@
 "Hartland","0900337140","2015","Percent","Housing Permits",0
 "Hartland","0900337140","2016","Number","Housing Permits",1
 "Hartland","0900337140","2016","Percent","Housing Permits",0
+"Hartland","0900337140","2017","Number","Housing Permits",7
+"Hartland","0900337140","2017","Percent","Housing Permits",0.2
 "Harwinton","0900537280","1990","Number","Housing Permits",9
 "Harwinton","0900537280","1990","Percent","Housing Permits",0.1
 "Harwinton","0900537280","1991","Number","Housing Permits",6
@@ -3590,6 +3721,8 @@
 "Harwinton","0900537280","2015","Percent","Housing Permits",0.1
 "Harwinton","0900537280","2016","Number","Housing Permits",5
 "Harwinton","0900537280","2016","Percent","Housing Permits",0.1
+"Harwinton","0900537280","2017","Number","Housing Permits",7
+"Harwinton","0900537280","2017","Percent","Housing Permits",0.2
 "Hebron","0901337910","1990","Number","Housing Permits",18
 "Hebron","0901337910","1990","Percent","Housing Permits",0.2
 "Hebron","0901337910","1991","Number","Housing Permits",67
@@ -3644,6 +3777,8 @@
 "Hebron","0901337910","2015","Percent","Housing Permits",0.2
 "Hebron","0901337910","2016","Number","Housing Permits",10
 "Hebron","0901337910","2016","Percent","Housing Permits",0.2
+"Hebron","0901337910","2017","Number","Housing Permits",16
+"Hebron","0901337910","2017","Percent","Housing Permits",0.4
 "Kent","0900540290","1990","Number","Housing Permits",16
 "Kent","0900540290","1990","Percent","Housing Permits",0.2
 "Kent","0900540290","1991","Number","Housing Permits",17
@@ -3698,6 +3833,8 @@
 "Kent","0900540290","2015","Percent","Housing Permits",0
 "Kent","0900540290","2016","Number","Housing Permits",7
 "Kent","0900540290","2016","Percent","Housing Permits",0.1
+"Kent","0900540290","2017","Number","Housing Permits",3
+"Kent","0900540290","2017","Percent","Housing Permits",0.1
 "Killingly","0901540500","1990","Number","Housing Permits",55
 "Killingly","0901540500","1990","Percent","Housing Permits",0.7
 "Killingly","0901540500","1991","Number","Housing Permits",61
@@ -3752,6 +3889,8 @@
 "Killingly","0901540500","2015","Percent","Housing Permits",0.3
 "Killingly","0901540500","2016","Number","Housing Permits",45
 "Killingly","0901540500","2016","Percent","Housing Permits",0.8
+"Killingly","0901540500","2017","Number","Housing Permits",30
+"Killingly","0901540500","2017","Percent","Housing Permits",0.7
 "Killingworth","0900740710","1990","Number","Housing Permits",26
 "Killingworth","0900740710","1990","Percent","Housing Permits",0.3
 "Killingworth","0900740710","1991","Number","Housing Permits",29
@@ -3806,6 +3945,8 @@
 "Killingworth","0900740710","2015","Percent","Housing Permits",0.1
 "Killingworth","0900740710","2016","Number","Housing Permits",3
 "Killingworth","0900740710","2016","Percent","Housing Permits",0.1
+"Killingworth","0900740710","2017","Number","Housing Permits",7
+"Killingworth","0900740710","2017","Percent","Housing Permits",0.2
 "Lebanon","0901142390","1990","Number","Housing Permits",36
 "Lebanon","0901142390","1990","Percent","Housing Permits",0.5
 "Lebanon","0901142390","1991","Number","Housing Permits",50
@@ -3860,6 +4001,8 @@
 "Lebanon","0901142390","2015","Percent","Housing Permits",0
 "Lebanon","0901142390","2016","Number","Housing Permits",19
 "Lebanon","0901142390","2016","Percent","Housing Permits",0.3
+"Lebanon","0901142390","2017","Number","Housing Permits",10
+"Lebanon","0901142390","2017","Percent","Housing Permits",0.2
 "Ledyard","0901142600","1990","Number","Housing Permits",32
 "Ledyard","0901142600","1990","Percent","Housing Permits",0.4
 "Ledyard","0901142600","1991","Number","Housing Permits",14
@@ -3914,6 +4057,8 @@
 "Ledyard","0901142600","2015","Percent","Housing Permits",0.2
 "Ledyard","0901142600","2016","Number","Housing Permits",20
 "Ledyard","0901142600","2016","Percent","Housing Permits",0.4
+"Ledyard","0901142600","2017","Number","Housing Permits",16
+"Ledyard","0901142600","2017","Percent","Housing Permits",0.4
 "Lisbon","0901143230","1990","Number","Housing Permits",13
 "Lisbon","0901143230","1990","Percent","Housing Permits",0.2
 "Lisbon","0901143230","1991","Number","Housing Permits",14
@@ -3968,6 +4113,8 @@
 "Lisbon","0901143230","2015","Percent","Housing Permits",0.1
 "Lisbon","0901143230","2016","Number","Housing Permits",6
 "Lisbon","0901143230","2016","Percent","Housing Permits",0.1
+"Lisbon","0901143230","2017","Number","Housing Permits",5
+"Lisbon","0901143230","2017","Percent","Housing Permits",0.1
 "Litchfield","0900543370","1990","Number","Housing Permits",16
 "Litchfield","0900543370","1990","Percent","Housing Permits",0.2
 "Litchfield","0900543370","1991","Number","Housing Permits",23
@@ -4022,6 +4169,8 @@
 "Litchfield","0900543370","2015","Percent","Housing Permits",0.1
 "Litchfield","0900543370","2016","Number","Housing Permits",12
 "Litchfield","0900543370","2016","Percent","Housing Permits",0.2
+"Litchfield","0900543370","2017","Number","Housing Permits",5
+"Litchfield","0900543370","2017","Percent","Housing Permits",0.1
 "Lyme","0901144210","1990","Number","Housing Permits",10
 "Lyme","0901144210","1990","Percent","Housing Permits",0.1
 "Lyme","0901144210","1991","Number","Housing Permits",9
@@ -4076,6 +4225,8 @@
 "Lyme","0901144210","2015","Percent","Housing Permits",0
 "Lyme","0901144210","2016","Number","Housing Permits",5
 "Lyme","0901144210","2016","Percent","Housing Permits",0.1
+"Lyme","0901144210","2017","Number","Housing Permits",4
+"Lyme","0901144210","2017","Percent","Housing Permits",0.1
 "Madison","0900944560","1990","Number","Housing Permits",56
 "Madison","0900944560","1990","Percent","Housing Permits",0.7
 "Madison","0900944560","1991","Number","Housing Permits",89
@@ -4130,6 +4281,8 @@
 "Madison","0900944560","2015","Percent","Housing Permits",0.3
 "Madison","0900944560","2016","Number","Housing Permits",23
 "Madison","0900944560","2016","Percent","Housing Permits",0.4
+"Madison","0900944560","2017","Number","Housing Permits",16
+"Madison","0900944560","2017","Percent","Housing Permits",0.4
 "Manchester","0900344700","1990","Number","Housing Permits",111
 "Manchester","0900344700","1990","Percent","Housing Permits",1.4
 "Manchester","0900344700","1991","Number","Housing Permits",92
@@ -4184,6 +4337,8 @@
 "Manchester","0900344700","2015","Percent","Housing Permits",1.9
 "Manchester","0900344700","2016","Number","Housing Permits",14
 "Manchester","0900344700","2016","Percent","Housing Permits",0.3
+"Manchester","0900344700","2017","Number","Housing Permits",23
+"Manchester","0900344700","2017","Percent","Housing Permits",0.5
 "Mansfield","0901344910","1990","Number","Housing Permits",26
 "Mansfield","0901344910","1990","Percent","Housing Permits",0.3
 "Mansfield","0901344910","1991","Number","Housing Permits",58
@@ -4238,6 +4393,8 @@
 "Mansfield","0901344910","2015","Percent","Housing Permits",0.1
 "Mansfield","0901344910","2016","Number","Housing Permits",4
 "Mansfield","0901344910","2016","Percent","Housing Permits",0.1
+"Mansfield","0901344910","2017","Number","Housing Permits",7
+"Mansfield","0901344910","2017","Percent","Housing Permits",0.2
 "Marlborough","0900345820","1990","Number","Housing Permits",8
 "Marlborough","0900345820","1990","Percent","Housing Permits",0.1
 "Marlborough","0900345820","1991","Number","Housing Permits",17
@@ -4292,6 +4449,8 @@
 "Marlborough","0900345820","2015","Percent","Housing Permits",0.1
 "Marlborough","0900345820","2016","Number","Housing Permits",3
 "Marlborough","0900345820","2016","Percent","Housing Permits",0.1
+"Marlborough","0900345820","2017","Number","Housing Permits",2
+"Marlborough","0900345820","2017","Percent","Housing Permits",0
 "Meriden","0900946520","1990","Number","Housing Permits",91
 "Meriden","0900946520","1990","Percent","Housing Permits",1.2
 "Meriden","0900946520","1991","Number","Housing Permits",51
@@ -4346,6 +4505,8 @@
 "Meriden","0900946520","2015","Percent","Housing Permits",0
 "Meriden","0900946520","2016","Number","Housing Permits",64
 "Meriden","0900946520","2016","Percent","Housing Permits",1.2
+"Meriden","0900946520","2017","Number","Housing Permits",6
+"Meriden","0900946520","2017","Percent","Housing Permits",0.1
 "Middlebury","0900946940","1990","Number","Housing Permits",6
 "Middlebury","0900946940","1990","Percent","Housing Permits",0.1
 "Middlebury","0900946940","1991","Number","Housing Permits",6
@@ -4400,6 +4561,8 @@
 "Middlebury","0900946940","2015","Percent","Housing Permits",0.3
 "Middlebury","0900946940","2016","Number","Housing Permits",27
 "Middlebury","0900946940","2016","Percent","Housing Permits",0.5
+"Middlebury","0900946940","2017","Number","Housing Permits",22
+"Middlebury","0900946940","2017","Percent","Housing Permits",0.5
 "Middlefield","0900747080","1990","Number","Housing Permits",7
 "Middlefield","0900747080","1990","Percent","Housing Permits",0.1
 "Middlefield","0900747080","1991","Number","Housing Permits",11
@@ -4454,6 +4617,8 @@
 "Middlefield","0900747080","2015","Percent","Housing Permits",0.1
 "Middlefield","0900747080","2016","Number","Housing Permits",9
 "Middlefield","0900747080","2016","Percent","Housing Permits",0.2
+"Middlefield","0900747080","2017","Number","Housing Permits",9
+"Middlefield","0900747080","2017","Percent","Housing Permits",0.2
 "Middletown","0900747360","1990","Number","Housing Permits",83
 "Middletown","0900747360","1990","Percent","Housing Permits",1.1
 "Middletown","0900747360","1991","Number","Housing Permits",103
@@ -4508,6 +4673,8 @@
 "Middletown","0900747360","2015","Percent","Housing Permits",2
 "Middletown","0900747360","2016","Number","Housing Permits",25
 "Middletown","0900747360","2016","Percent","Housing Permits",0.5
+"Middletown","0900747360","2017","Number","Housing Permits",18
+"Middletown","0900747360","2017","Percent","Housing Permits",0.4
 "Milford","0900947535","1990","Number","Housing Permits",80
 "Milford","0900947535","1990","Percent","Housing Permits",1
 "Milford","0900947535","1991","Number","Housing Permits",163
@@ -4562,6 +4729,8 @@
 "Milford","0900947535","2015","Percent","Housing Permits",5.9
 "Milford","0900947535","2016","Number","Housing Permits",178
 "Milford","0900947535","2016","Percent","Housing Permits",3.2
+"Milford","0900947535","2017","Number","Housing Permits",194
+"Milford","0900947535","2017","Percent","Housing Permits",4.3
 "Monroe","0900148620","1990","Number","Housing Permits",36
 "Monroe","0900148620","1990","Percent","Housing Permits",0.5
 "Monroe","0900148620","1991","Number","Housing Permits",61
@@ -4616,6 +4785,8 @@
 "Monroe","0900148620","2015","Percent","Housing Permits",0.1
 "Monroe","0900148620","2016","Number","Housing Permits",10
 "Monroe","0900148620","2016","Percent","Housing Permits",0.2
+"Monroe","0900148620","2017","Number","Housing Permits",17
+"Monroe","0900148620","2017","Percent","Housing Permits",0.4
 "Montville","0901148900","1990","Number","Housing Permits",29
 "Montville","0901148900","1990","Percent","Housing Permits",0.4
 "Montville","0901148900","1991","Number","Housing Permits",83
@@ -4670,6 +4841,8 @@
 "Montville","0901148900","2015","Percent","Housing Permits",0.1
 "Montville","0901148900","2016","Number","Housing Permits",9
 "Montville","0901148900","2016","Percent","Housing Permits",0.2
+"Montville","0901148900","2017","Number","Housing Permits",10
+"Montville","0901148900","2017","Percent","Housing Permits",0.2
 "Morris","0900549460","1990","Number","Housing Permits",15
 "Morris","0900549460","1990","Percent","Housing Permits",0.2
 "Morris","0900549460","1991","Number","Housing Permits",10
@@ -4724,6 +4897,8 @@
 "Morris","0900549460","2015","Percent","Housing Permits",0
 "Morris","0900549460","2016","Number","Housing Permits",1
 "Morris","0900549460","2016","Percent","Housing Permits",0
+"Morris","0900549460","2017","Number","Housing Permits",1
+"Morris","0900549460","2017","Percent","Housing Permits",0
 "Naugatuck","0900949950","1990","Number","Housing Permits",99
 "Naugatuck","0900949950","1990","Percent","Housing Permits",1.3
 "Naugatuck","0900949950","1991","Number","Housing Permits",62
@@ -4778,6 +4953,8 @@
 "Naugatuck","0900949950","2015","Percent","Housing Permits",0.3
 "Naugatuck","0900949950","2016","Number","Housing Permits",8
 "Naugatuck","0900949950","2016","Percent","Housing Permits",0.1
+"Naugatuck","0900949950","2017","Number","Housing Permits",0
+"Naugatuck","0900949950","2017","Percent","Housing Permits",0
 "New Britain","0900350440","1990","Number","Housing Permits",22
 "New Britain","0900350440","1990","Percent","Housing Permits",0.3
 "New Britain","0900350440","1991","Number","Housing Permits",27
@@ -4832,6 +5009,8 @@
 "New Britain","0900350440","2015","Percent","Housing Permits",0.1
 "New Britain","0900350440","2016","Number","Housing Permits",32
 "New Britain","0900350440","2016","Percent","Housing Permits",0.6
+"New Britain","0900350440","2017","Number","Housing Permits",18
+"New Britain","0900350440","2017","Percent","Housing Permits",0.4
 "New Canaan","0900150580","1990","Number","Housing Permits",7
 "New Canaan","0900150580","1990","Percent","Housing Permits",0.1
 "New Canaan","0900150580","1991","Number","Housing Permits",30
@@ -4886,6 +5065,8 @@
 "New Canaan","0900150580","2015","Percent","Housing Permits",0.7
 "New Canaan","0900150580","2016","Number","Housing Permits",26
 "New Canaan","0900150580","2016","Percent","Housing Permits",0.5
+"New Canaan","0900150580","2017","Number","Housing Permits",25
+"New Canaan","0900150580","2017","Percent","Housing Permits",0.5
 "New Fairfield","0900150860","1990","Number","Housing Permits",31
 "New Fairfield","0900150860","1990","Percent","Housing Permits",0.4
 "New Fairfield","0900150860","1991","Number","Housing Permits",36
@@ -4940,6 +5121,8 @@
 "New Fairfield","0900150860","2015","Percent","Housing Permits",0.2
 "New Fairfield","0900150860","2016","Number","Housing Permits",10
 "New Fairfield","0900150860","2016","Percent","Housing Permits",0.2
+"New Fairfield","0900150860","2017","Number","Housing Permits",6
+"New Fairfield","0900150860","2017","Percent","Housing Permits",0.1
 "New Hartford","0900551350","1990","Number","Housing Permits",29
 "New Hartford","0900551350","1990","Percent","Housing Permits",0.4
 "New Hartford","0900551350","1991","Number","Housing Permits",19
@@ -4994,6 +5177,8 @@
 "New Hartford","0900551350","2015","Percent","Housing Permits",0.1
 "New Hartford","0900551350","2016","Number","Housing Permits",9
 "New Hartford","0900551350","2016","Percent","Housing Permits",0.2
+"New Hartford","0900551350","2017","Number","Housing Permits",7
+"New Hartford","0900551350","2017","Percent","Housing Permits",0.2
 "New Haven","0900952070","1990","Number","Housing Permits",134
 "New Haven","0900952070","1990","Percent","Housing Permits",1.7
 "New Haven","0900952070","1991","Number","Housing Permits",102
@@ -5048,6 +5233,8 @@
 "New Haven","0900952070","2015","Percent","Housing Permits",4.3
 "New Haven","0900952070","2016","Number","Housing Permits",227
 "New Haven","0900952070","2016","Percent","Housing Permits",4.1
+"New Haven","0900952070","2017","Number","Housing Permits",24
+"New Haven","0900952070","2017","Percent","Housing Permits",0.5
 "Newington","0900352140","1990","Number","Housing Permits",26
 "Newington","0900352140","1990","Percent","Housing Permits",0.3
 "Newington","0900352140","1991","Number","Housing Permits",33
@@ -5102,6 +5289,8 @@
 "Newington","0900352140","2015","Percent","Housing Permits",0.2
 "Newington","0900352140","2016","Number","Housing Permits",10
 "Newington","0900352140","2016","Percent","Housing Permits",0.2
+"Newington","0900352140","2017","Number","Housing Permits",13
+"Newington","0900352140","2017","Percent","Housing Permits",0.3
 "New London","0901152350","1990","Number","Housing Permits",16
 "New London","0901152350","1990","Percent","Housing Permits",0.2
 "New London","0901152350","1991","Number","Housing Permits",5
@@ -5156,6 +5345,8 @@
 "New London","0901152350","2015","Percent","Housing Permits",0.7
 "New London","0901152350","2016","Number","Housing Permits",39
 "New London","0901152350","2016","Percent","Housing Permits",0.7
+"New London","0901152350","2017","Number","Housing Permits",39
+"New London","0901152350","2017","Percent","Housing Permits",0.9
 "New Milford","0900552630","1990","Number","Housing Permits",169
 "New Milford","0900552630","1990","Percent","Housing Permits",2.2
 "New Milford","0900552630","1991","Number","Housing Permits",103
@@ -5210,6 +5401,8 @@
 "New Milford","0900552630","2015","Percent","Housing Permits",0.4
 "New Milford","0900552630","2016","Number","Housing Permits",48
 "New Milford","0900552630","2016","Percent","Housing Permits",0.9
+"New Milford","0900552630","2017","Number","Housing Permits",25
+"New Milford","0900552630","2017","Percent","Housing Permits",0.5
 "Newtown","0900152980","1990","Number","Housing Permits",69
 "Newtown","0900152980","1990","Percent","Housing Permits",0.9
 "Newtown","0900152980","1991","Number","Housing Permits",92
@@ -5264,6 +5457,8 @@
 "Newtown","0900152980","2015","Percent","Housing Permits",0.5
 "Newtown","0900152980","2016","Number","Housing Permits",42
 "Newtown","0900152980","2016","Percent","Housing Permits",0.8
+"Newtown","0900152980","2017","Number","Housing Permits",50
+"Newtown","0900152980","2017","Percent","Housing Permits",1.1
 "Norfolk","0900553470","1990","Number","Housing Permits",2
 "Norfolk","0900553470","1990","Percent","Housing Permits",0
 "Norfolk","0900553470","1991","Number","Housing Permits",3
@@ -5318,6 +5513,8 @@
 "Norfolk","0900553470","2015","Percent","Housing Permits",0
 "Norfolk","0900553470","2016","Number","Housing Permits",5
 "Norfolk","0900553470","2016","Percent","Housing Permits",0.1
+"Norfolk","0900553470","2017","Number","Housing Permits",6
+"Norfolk","0900553470","2017","Percent","Housing Permits",0.1
 "North Branford","0900953890","1990","Number","Housing Permits",175
 "North Branford","0900953890","1990","Percent","Housing Permits",2.2
 "North Branford","0900953890","1991","Number","Housing Permits",71
@@ -5372,6 +5569,8 @@
 "North Branford","0900953890","2015","Percent","Housing Permits",0.1
 "North Branford","0900953890","2016","Number","Housing Permits",10
 "North Branford","0900953890","2016","Percent","Housing Permits",0.2
+"North Branford","0900953890","2017","Number","Housing Permits",13
+"North Branford","0900953890","2017","Percent","Housing Permits",0.3
 "North Canaan","0900554030","1990","Number","Housing Permits",14
 "North Canaan","0900554030","1990","Percent","Housing Permits",0.2
 "North Canaan","0900554030","1991","Number","Housing Permits",20
@@ -5426,6 +5625,8 @@
 "North Canaan","0900554030","2015","Percent","Housing Permits",0
 "North Canaan","0900554030","2016","Number","Housing Permits",0
 "North Canaan","0900554030","2016","Percent","Housing Permits",0
+"North Canaan","0900554030","2017","Number","Housing Permits",0
+"North Canaan","0900554030","2017","Percent","Housing Permits",0
 "North Haven","0900954870","1990","Number","Housing Permits",45
 "North Haven","0900954870","1990","Percent","Housing Permits",0.6
 "North Haven","0900954870","1991","Number","Housing Permits",54
@@ -5480,6 +5681,8 @@
 "North Haven","0900954870","2015","Percent","Housing Permits",0.1
 "North Haven","0900954870","2016","Number","Housing Permits",9
 "North Haven","0900954870","2016","Percent","Housing Permits",0.2
+"North Haven","0900954870","2017","Number","Housing Permits",28
+"North Haven","0900954870","2017","Percent","Housing Permits",0.6
 "North Stonington","0901155500","1990","Number","Housing Permits",22
 "North Stonington","0901155500","1990","Percent","Housing Permits",0.3
 "North Stonington","0901155500","1991","Number","Housing Permits",12
@@ -5534,6 +5737,8 @@
 "North Stonington","0901155500","2015","Percent","Housing Permits",0.1
 "North Stonington","0901155500","2016","Number","Housing Permits",12
 "North Stonington","0901155500","2016","Percent","Housing Permits",0.2
+"North Stonington","0901155500","2017","Number","Housing Permits",10
+"North Stonington","0901155500","2017","Percent","Housing Permits",0.2
 "Norwalk","0900156060","1990","Number","Housing Permits",141
 "Norwalk","0900156060","1990","Percent","Housing Permits",1.8
 "Norwalk","0900156060","1991","Number","Housing Permits",100
@@ -5588,6 +5793,8 @@
 "Norwalk","0900156060","2015","Percent","Housing Permits",5.8
 "Norwalk","0900156060","2016","Number","Housing Permits",199
 "Norwalk","0900156060","2016","Percent","Housing Permits",3.6
+"Norwalk","0900156060","2017","Number","Housing Permits",429
+"Norwalk","0900156060","2017","Percent","Housing Permits",9.4
 "Norwich","0901156270","1990","Number","Housing Permits",192
 "Norwich","0901156270","1990","Percent","Housing Permits",2.5
 "Norwich","0901156270","1991","Number","Housing Permits",25
@@ -5642,6 +5849,8 @@
 "Norwich","0901156270","2015","Percent","Housing Permits",0.1
 "Norwich","0901156270","2016","Number","Housing Permits",22
 "Norwich","0901156270","2016","Percent","Housing Permits",0.4
+"Norwich","0901156270","2017","Number","Housing Permits",22
+"Norwich","0901156270","2017","Percent","Housing Permits",0.5
 "Old Lyme","0901157040","1990","Number","Housing Permits",36
 "Old Lyme","0901157040","1990","Percent","Housing Permits",0.5
 "Old Lyme","0901157040","1991","Number","Housing Permits",17
@@ -5696,6 +5905,8 @@
 "Old Lyme","0901157040","2015","Percent","Housing Permits",0.2
 "Old Lyme","0901157040","2016","Number","Housing Permits",8
 "Old Lyme","0901157040","2016","Percent","Housing Permits",0.1
+"Old Lyme","0901157040","2017","Number","Housing Permits",4
+"Old Lyme","0901157040","2017","Percent","Housing Permits",0.1
 "Old Saybrook","0900757320","1990","Number","Housing Permits",27
 "Old Saybrook","0900757320","1990","Percent","Housing Permits",0.3
 "Old Saybrook","0900757320","1991","Number","Housing Permits",14
@@ -5750,6 +5961,8 @@
 "Old Saybrook","0900757320","2015","Percent","Housing Permits",0.2
 "Old Saybrook","0900757320","2016","Number","Housing Permits",35
 "Old Saybrook","0900757320","2016","Percent","Housing Permits",0.6
+"Old Saybrook","0900757320","2017","Number","Housing Permits",10
+"Old Saybrook","0900757320","2017","Percent","Housing Permits",0.2
 "Orange","0900957600","1990","Number","Housing Permits",10
 "Orange","0900957600","1990","Percent","Housing Permits",0.1
 "Orange","0900957600","1991","Number","Housing Permits",17
@@ -5804,6 +6017,8 @@
 "Orange","0900957600","2015","Percent","Housing Permits",0.3
 "Orange","0900957600","2016","Number","Housing Permits",25
 "Orange","0900957600","2016","Percent","Housing Permits",0.5
+"Orange","0900957600","2017","Number","Housing Permits",17
+"Orange","0900957600","2017","Percent","Housing Permits",0.4
 "Oxford","0900958300","1990","Number","Housing Permits",70
 "Oxford","0900958300","1990","Percent","Housing Permits",0.9
 "Oxford","0900958300","1991","Number","Housing Permits",51
@@ -5858,6 +6073,8 @@
 "Oxford","0900958300","2015","Percent","Housing Permits",0.3
 "Oxford","0900958300","2016","Number","Housing Permits",23
 "Oxford","0900958300","2016","Percent","Housing Permits",0.4
+"Oxford","0900958300","2017","Number","Housing Permits",104
+"Oxford","0900958300","2017","Percent","Housing Permits",2.3
 "Plainfield","0901559980","1990","Number","Housing Permits",52
 "Plainfield","0901559980","1990","Percent","Housing Permits",0.7
 "Plainfield","0901559980","1991","Number","Housing Permits",16
@@ -5912,6 +6129,8 @@
 "Plainfield","0901559980","2015","Percent","Housing Permits",0.2
 "Plainfield","0901559980","2016","Number","Housing Permits",11
 "Plainfield","0901559980","2016","Percent","Housing Permits",0.2
+"Plainfield","0901559980","2017","Number","Housing Permits",11
+"Plainfield","0901559980","2017","Percent","Housing Permits",0.2
 "Plainville","0900360120","1990","Number","Housing Permits",14
 "Plainville","0900360120","1990","Percent","Housing Permits",0.2
 "Plainville","0900360120","1991","Number","Housing Permits",18
@@ -5966,6 +6185,8 @@
 "Plainville","0900360120","2015","Percent","Housing Permits",0.1
 "Plainville","0900360120","2016","Number","Housing Permits",7
 "Plainville","0900360120","2016","Percent","Housing Permits",0.1
+"Plainville","0900360120","2017","Number","Housing Permits",11
+"Plainville","0900360120","2017","Percent","Housing Permits",0.2
 "Plymouth","0900560750","1990","Number","Housing Permits",25
 "Plymouth","0900560750","1990","Percent","Housing Permits",0.3
 "Plymouth","0900560750","1991","Number","Housing Permits",27
@@ -6020,6 +6241,8 @@
 "Plymouth","0900560750","2015","Percent","Housing Permits",0.1
 "Plymouth","0900560750","2016","Number","Housing Permits",5
 "Plymouth","0900560750","2016","Percent","Housing Permits",0.1
+"Plymouth","0900560750","2017","Number","Housing Permits",5
+"Plymouth","0900560750","2017","Percent","Housing Permits",0.1
 "Pomfret","0901561030","1990","Number","Housing Permits",28
 "Pomfret","0901561030","1990","Percent","Housing Permits",0.4
 "Pomfret","0901561030","1991","Number","Housing Permits",20
@@ -6074,6 +6297,8 @@
 "Pomfret","0901561030","2015","Percent","Housing Permits",0.1
 "Pomfret","0901561030","2016","Number","Housing Permits",7
 "Pomfret","0901561030","2016","Percent","Housing Permits",0.1
+"Pomfret","0901561030","2017","Number","Housing Permits",8
+"Pomfret","0901561030","2017","Percent","Housing Permits",0.2
 "Portland","0900761800","1990","Number","Housing Permits",24
 "Portland","0900761800","1990","Percent","Housing Permits",0.3
 "Portland","0900761800","1991","Number","Housing Permits",35
@@ -6128,6 +6353,8 @@
 "Portland","0900761800","2015","Percent","Housing Permits",0.1
 "Portland","0900761800","2016","Number","Housing Permits",8
 "Portland","0900761800","2016","Percent","Housing Permits",0.1
+"Portland","0900761800","2017","Number","Housing Permits",7
+"Portland","0900761800","2017","Percent","Housing Permits",0.2
 "Preston","0901162150","1990","Number","Housing Permits",14
 "Preston","0901162150","1990","Percent","Housing Permits",0.2
 "Preston","0901162150","1991","Number","Housing Permits",21
@@ -6182,6 +6409,8 @@
 "Preston","0901162150","2015","Percent","Housing Permits",0.2
 "Preston","0901162150","2016","Number","Housing Permits",6
 "Preston","0901162150","2016","Percent","Housing Permits",0.1
+"Preston","0901162150","2017","Number","Housing Permits",8
+"Preston","0901162150","2017","Percent","Housing Permits",0.2
 "Prospect","0900962290","1990","Number","Housing Permits",28
 "Prospect","0900962290","1990","Percent","Housing Permits",0.4
 "Prospect","0900962290","1991","Number","Housing Permits",44
@@ -6236,6 +6465,8 @@
 "Prospect","0900962290","2015","Percent","Housing Permits",0.5
 "Prospect","0900962290","2016","Number","Housing Permits",22
 "Prospect","0900962290","2016","Percent","Housing Permits",0.4
+"Prospect","0900962290","2017","Number","Housing Permits",19
+"Prospect","0900962290","2017","Percent","Housing Permits",0.4
 "Putnam","0901562710","1990","Number","Housing Permits",10
 "Putnam","0901562710","1990","Percent","Housing Permits",0.1
 "Putnam","0901562710","1991","Number","Housing Permits",19
@@ -6290,6 +6521,8 @@
 "Putnam","0901562710","2015","Percent","Housing Permits",0
 "Putnam","0901562710","2016","Number","Housing Permits",14
 "Putnam","0901562710","2016","Percent","Housing Permits",0.3
+"Putnam","0901562710","2017","Number","Housing Permits",14
+"Putnam","0901562710","2017","Percent","Housing Permits",0.3
 "Redding","0900163480","1990","Number","Housing Permits",31
 "Redding","0900163480","1990","Percent","Housing Permits",0.4
 "Redding","0900163480","1991","Number","Housing Permits",10
@@ -6344,6 +6577,8 @@
 "Redding","0900163480","2015","Percent","Housing Permits",0.1
 "Redding","0900163480","2016","Number","Housing Permits",5
 "Redding","0900163480","2016","Percent","Housing Permits",0.1
+"Redding","0900163480","2017","Number","Housing Permits",1
+"Redding","0900163480","2017","Percent","Housing Permits",0
 "Ridgefield","0900163970","1990","Number","Housing Permits",97
 "Ridgefield","0900163970","1990","Percent","Housing Permits",1.2
 "Ridgefield","0900163970","1991","Number","Housing Permits",81
@@ -6398,6 +6633,8 @@
 "Ridgefield","0900163970","2015","Percent","Housing Permits",0.4
 "Ridgefield","0900163970","2016","Number","Housing Permits",52
 "Ridgefield","0900163970","2016","Percent","Housing Permits",0.9
+"Ridgefield","0900163970","2017","Number","Housing Permits",34
+"Ridgefield","0900163970","2017","Percent","Housing Permits",0.7
 "Rocky Hill","0900365370","1990","Number","Housing Permits",32
 "Rocky Hill","0900365370","1990","Percent","Housing Permits",0.4
 "Rocky Hill","0900365370","1991","Number","Housing Permits",51
@@ -6452,6 +6689,8 @@
 "Rocky Hill","0900365370","2015","Percent","Housing Permits",1.8
 "Rocky Hill","0900365370","2016","Number","Housing Permits",20
 "Rocky Hill","0900365370","2016","Percent","Housing Permits",0.4
+"Rocky Hill","0900365370","2017","Number","Housing Permits",10
+"Rocky Hill","0900365370","2017","Percent","Housing Permits",0.2
 "Roxbury","0900565930","1990","Number","Housing Permits",11
 "Roxbury","0900565930","1990","Percent","Housing Permits",0.1
 "Roxbury","0900565930","1991","Number","Housing Permits",8
@@ -6506,6 +6745,8 @@
 "Roxbury","0900565930","2015","Percent","Housing Permits",0
 "Roxbury","0900565930","2016","Number","Housing Permits",3
 "Roxbury","0900565930","2016","Percent","Housing Permits",0.1
+"Roxbury","0900565930","2017","Number","Housing Permits",2
+"Roxbury","0900565930","2017","Percent","Housing Permits",0
 "Salem","0901166210","1990","Number","Housing Permits",20
 "Salem","0901166210","1990","Percent","Housing Permits",0.3
 "Salem","0901166210","1991","Number","Housing Permits",12
@@ -6560,6 +6801,8 @@
 "Salem","0901166210","2015","Percent","Housing Permits",0.1
 "Salem","0901166210","2016","Number","Housing Permits",9
 "Salem","0901166210","2016","Percent","Housing Permits",0.2
+"Salem","0901166210","2017","Number","Housing Permits",9
+"Salem","0901166210","2017","Percent","Housing Permits",0.2
 "Salisbury","0900566420","1990","Number","Housing Permits",16
 "Salisbury","0900566420","1990","Percent","Housing Permits",0.2
 "Salisbury","0900566420","1991","Number","Housing Permits",11
@@ -6614,6 +6857,8 @@
 "Salisbury","0900566420","2015","Percent","Housing Permits",0.1
 "Salisbury","0900566420","2016","Number","Housing Permits",4
 "Salisbury","0900566420","2016","Percent","Housing Permits",0.1
+"Salisbury","0900566420","2017","Number","Housing Permits",7
+"Salisbury","0900566420","2017","Percent","Housing Permits",0.2
 "Scotland","0901567400","1990","Number","Housing Permits",7
 "Scotland","0901567400","1990","Percent","Housing Permits",0.1
 "Scotland","0901567400","1991","Number","Housing Permits",18
@@ -6668,6 +6913,8 @@
 "Scotland","0901567400","2015","Percent","Housing Permits",0
 "Scotland","0901567400","2016","Number","Housing Permits",0
 "Scotland","0901567400","2016","Percent","Housing Permits",0
+"Scotland","0901567400","2017","Number","Housing Permits",0
+"Scotland","0901567400","2017","Percent","Housing Permits",0
 "Seymour","0900967610","1990","Number","Housing Permits",40
 "Seymour","0900967610","1990","Percent","Housing Permits",0.5
 "Seymour","0900967610","1991","Number","Housing Permits",32
@@ -6722,6 +6969,8 @@
 "Seymour","0900967610","2015","Percent","Housing Permits",1.3
 "Seymour","0900967610","2016","Number","Housing Permits",3
 "Seymour","0900967610","2016","Percent","Housing Permits",0.1
+"Seymour","0900967610","2017","Number","Housing Permits",8
+"Seymour","0900967610","2017","Percent","Housing Permits",0.2
 "Sharon","0900567960","1990","Number","Housing Permits",27
 "Sharon","0900567960","1990","Percent","Housing Permits",0.3
 "Sharon","0900567960","1991","Number","Housing Permits",8
@@ -6776,6 +7025,8 @@
 "Sharon","0900567960","2015","Percent","Housing Permits",0.1
 "Sharon","0900567960","2016","Number","Housing Permits",3
 "Sharon","0900567960","2016","Percent","Housing Permits",0.1
+"Sharon","0900567960","2017","Number","Housing Permits",6
+"Sharon","0900567960","2017","Percent","Housing Permits",0.1
 "Shelton","0900168170","1990","Number","Housing Permits",114
 "Shelton","0900168170","1990","Percent","Housing Permits",1.5
 "Shelton","0900168170","1991","Number","Housing Permits",137
@@ -6830,6 +7081,8 @@
 "Shelton","0900168170","2015","Percent","Housing Permits",3.1
 "Shelton","0900168170","2016","Number","Housing Permits",46
 "Shelton","0900168170","2016","Percent","Housing Permits",0.8
+"Shelton","0900168170","2017","Number","Housing Permits",65
+"Shelton","0900168170","2017","Percent","Housing Permits",1.4
 "Sherman","0900168310","1990","Number","Housing Permits",17
 "Sherman","0900168310","1990","Percent","Housing Permits",0.2
 "Sherman","0900168310","1991","Number","Housing Permits",9
@@ -6884,6 +7137,8 @@
 "Sherman","0900168310","2015","Percent","Housing Permits",0.1
 "Sherman","0900168310","2016","Number","Housing Permits",2
 "Sherman","0900168310","2016","Percent","Housing Permits",0
+"Sherman","0900168310","2017","Number","Housing Permits",5
+"Sherman","0900168310","2017","Percent","Housing Permits",0.1
 "Simsbury","0900368940","1990","Number","Housing Permits",18
 "Simsbury","0900368940","1990","Percent","Housing Permits",0.2
 "Simsbury","0900368940","1991","Number","Housing Permits",44
@@ -6938,6 +7193,8 @@
 "Simsbury","0900368940","2015","Percent","Housing Permits",1.5
 "Simsbury","0900368940","2016","Number","Housing Permits",250
 "Simsbury","0900368940","2016","Percent","Housing Permits",4.5
+"Simsbury","0900368940","2017","Number","Housing Permits",64
+"Simsbury","0900368940","2017","Percent","Housing Permits",1.4
 "Somers","0901369220","1990","Number","Housing Permits",21
 "Somers","0901369220","1990","Percent","Housing Permits",0.3
 "Somers","0901369220","1991","Number","Housing Permits",19
@@ -6992,6 +7249,8 @@
 "Somers","0901369220","2015","Percent","Housing Permits",0.2
 "Somers","0901369220","2016","Number","Housing Permits",16
 "Somers","0901369220","2016","Percent","Housing Permits",0.3
+"Somers","0901369220","2017","Number","Housing Permits",14
+"Somers","0901369220","2017","Percent","Housing Permits",0.3
 "Southbury","0900969640","1990","Number","Housing Permits",58
 "Southbury","0900969640","1990","Percent","Housing Permits",0.7
 "Southbury","0900969640","1991","Number","Housing Permits",97
@@ -7046,6 +7305,8 @@
 "Southbury","0900969640","2015","Percent","Housing Permits",0.3
 "Southbury","0900969640","2016","Number","Housing Permits",12
 "Southbury","0900969640","2016","Percent","Housing Permits",0.2
+"Southbury","0900969640","2017","Number","Housing Permits",12
+"Southbury","0900969640","2017","Percent","Housing Permits",0.3
 "Southington","0900370550","1990","Number","Housing Permits",71
 "Southington","0900370550","1990","Percent","Housing Permits",0.9
 "Southington","0900370550","1991","Number","Housing Permits",94
@@ -7100,6 +7361,8 @@
 "Southington","0900370550","2015","Percent","Housing Permits",1.1
 "Southington","0900370550","2016","Number","Housing Permits",99
 "Southington","0900370550","2016","Percent","Housing Permits",1.8
+"Southington","0900370550","2017","Number","Housing Permits",79
+"Southington","0900370550","2017","Percent","Housing Permits",1.7
 "South Windsor","0900371390","1990","Number","Housing Permits",68
 "South Windsor","0900371390","1990","Percent","Housing Permits",0.9
 "South Windsor","0900371390","1991","Number","Housing Permits",106
@@ -7154,6 +7417,8 @@
 "South Windsor","0900371390","2015","Percent","Housing Permits",0.7
 "South Windsor","0900371390","2016","Number","Housing Permits",141
 "South Windsor","0900371390","2016","Percent","Housing Permits",2.6
+"South Windsor","0900371390","2017","Number","Housing Permits",102
+"South Windsor","0900371390","2017","Percent","Housing Permits",2.2
 "Sprague","0901171670","1990","Number","Housing Permits",4
 "Sprague","0901171670","1990","Percent","Housing Permits",0.1
 "Sprague","0901171670","1991","Number","Housing Permits",8
@@ -7208,6 +7473,8 @@
 "Sprague","0901171670","2015","Percent","Housing Permits",0
 "Sprague","0901171670","2016","Number","Housing Permits",1
 "Sprague","0901171670","2016","Percent","Housing Permits",0
+"Sprague","0901171670","2017","Number","Housing Permits",2
+"Sprague","0901171670","2017","Percent","Housing Permits",0
 "Stafford","0901372090","1990","Number","Housing Permits",62
 "Stafford","0901372090","1990","Percent","Housing Permits",0.8
 "Stafford","0901372090","1991","Number","Housing Permits",33
@@ -7262,6 +7529,8 @@
 "Stafford","0901372090","2015","Percent","Housing Permits",0
 "Stafford","0901372090","2016","Number","Housing Permits",85
 "Stafford","0901372090","2016","Percent","Housing Permits",1.5
+"Stafford","0901372090","2017","Number","Housing Permits",9
+"Stafford","0901372090","2017","Percent","Housing Permits",0.2
 "Stamford","0900173070","1990","Number","Housing Permits",464
 "Stamford","0900173070","1990","Percent","Housing Permits",5.9
 "Stamford","0900173070","1991","Number","Housing Permits",237
@@ -7316,6 +7585,8 @@
 "Stamford","0900173070","2015","Percent","Housing Permits",10.5
 "Stamford","0900173070","2016","Number","Housing Permits",720
 "Stamford","0900173070","2016","Percent","Housing Permits",13.1
+"Stamford","0900173070","2017","Number","Housing Permits",148
+"Stamford","0900173070","2017","Percent","Housing Permits",3.3
 "Sterling","0901573420","1990","Number","Housing Permits",46
 "Sterling","0901573420","1990","Percent","Housing Permits",0.6
 "Sterling","0901573420","1991","Number","Housing Permits",36
@@ -7370,6 +7641,8 @@
 "Sterling","0901573420","2015","Percent","Housing Permits",0.1
 "Sterling","0901573420","2016","Number","Housing Permits",4
 "Sterling","0901573420","2016","Percent","Housing Permits",0.1
+"Sterling","0901573420","2017","Number","Housing Permits",8
+"Sterling","0901573420","2017","Percent","Housing Permits",0.2
 "Stonington","0901173770","1990","Number","Housing Permits",30
 "Stonington","0901173770","1990","Percent","Housing Permits",0.4
 "Stonington","0901173770","1991","Number","Housing Permits",38
@@ -7424,6 +7697,8 @@
 "Stonington","0901173770","2015","Percent","Housing Permits",3.9
 "Stonington","0901173770","2016","Number","Housing Permits",26
 "Stonington","0901173770","2016","Percent","Housing Permits",0.5
+"Stonington","0901173770","2017","Number","Housing Permits",21
+"Stonington","0901173770","2017","Percent","Housing Permits",0.5
 "Stratford","0900174190","1990","Number","Housing Permits",48
 "Stratford","0900174190","1990","Percent","Housing Permits",0.6
 "Stratford","0900174190","1991","Number","Housing Permits",55
@@ -7478,6 +7753,8 @@
 "Stratford","0900174190","2015","Percent","Housing Permits",0.6
 "Stratford","0900174190","2016","Number","Housing Permits",25
 "Stratford","0900174190","2016","Percent","Housing Permits",0.5
+"Stratford","0900174190","2017","Number","Housing Permits",84
+"Stratford","0900174190","2017","Percent","Housing Permits",1.8
 "Suffield","0900374540","1990","Number","Housing Permits",22
 "Suffield","0900374540","1990","Percent","Housing Permits",0.3
 "Suffield","0900374540","1991","Number","Housing Permits",25
@@ -7532,6 +7809,8 @@
 "Suffield","0900374540","2015","Percent","Housing Permits",0.5
 "Suffield","0900374540","2016","Number","Housing Permits",34
 "Suffield","0900374540","2016","Percent","Housing Permits",0.6
+"Suffield","0900374540","2017","Number","Housing Permits",66
+"Suffield","0900374540","2017","Percent","Housing Permits",1.5
 "Thomaston","0900575730","1990","Number","Housing Permits",22
 "Thomaston","0900575730","1990","Percent","Housing Permits",0.3
 "Thomaston","0900575730","1991","Number","Housing Permits",41
@@ -7586,6 +7865,8 @@
 "Thomaston","0900575730","2015","Percent","Housing Permits",0.2
 "Thomaston","0900575730","2016","Number","Housing Permits",14
 "Thomaston","0900575730","2016","Percent","Housing Permits",0.3
+"Thomaston","0900575730","2017","Number","Housing Permits",6
+"Thomaston","0900575730","2017","Percent","Housing Permits",0.1
 "Thompson","0901575870","1990","Number","Housing Permits",40
 "Thompson","0901575870","1990","Percent","Housing Permits",0.5
 "Thompson","0901575870","1991","Number","Housing Permits",65
@@ -7640,6 +7921,8 @@
 "Thompson","0901575870","2015","Percent","Housing Permits",0.2
 "Thompson","0901575870","2016","Number","Housing Permits",8
 "Thompson","0901575870","2016","Percent","Housing Permits",0.1
+"Thompson","0901575870","2017","Number","Housing Permits",18
+"Thompson","0901575870","2017","Percent","Housing Permits",0.4
 "Tolland","0901376290","1990","Number","Housing Permits",31
 "Tolland","0901376290","1990","Percent","Housing Permits",0.4
 "Tolland","0901376290","1991","Number","Housing Permits",48
@@ -7694,6 +7977,8 @@
 "Tolland","0901376290","2015","Percent","Housing Permits",0.1
 "Tolland","0901376290","2016","Number","Housing Permits",7
 "Tolland","0901376290","2016","Percent","Housing Permits",0.1
+"Tolland","0901376290","2017","Number","Housing Permits",13
+"Tolland","0901376290","2017","Percent","Housing Permits",0.3
 "Torrington","0900576570","1990","Number","Housing Permits",186
 "Torrington","0900576570","1990","Percent","Housing Permits",2.4
 "Torrington","0900576570","1991","Number","Housing Permits",81
@@ -7748,6 +8033,8 @@
 "Torrington","0900576570","2015","Percent","Housing Permits",0.1
 "Torrington","0900576570","2016","Number","Housing Permits",0
 "Torrington","0900576570","2016","Percent","Housing Permits",0
+"Torrington","0900576570","2017","Number","Housing Permits",1
+"Torrington","0900576570","2017","Percent","Housing Permits",0
 "Trumbull","0900177200","1990","Number","Housing Permits",54
 "Trumbull","0900177200","1990","Percent","Housing Permits",0.7
 "Trumbull","0900177200","1991","Number","Housing Permits",59
@@ -7802,6 +8089,8 @@
 "Trumbull","0900177200","2015","Percent","Housing Permits",0.1
 "Trumbull","0900177200","2016","Number","Housing Permits",8
 "Trumbull","0900177200","2016","Percent","Housing Permits",0.1
+"Trumbull","0900177200","2017","Number","Housing Permits",6
+"Trumbull","0900177200","2017","Percent","Housing Permits",0.1
 "Union","0901377830","1990","Number","Housing Permits",3
 "Union","0901377830","1990","Percent","Housing Permits",0
 "Union","0901377830","1991","Number","Housing Permits",2
@@ -7856,6 +8145,8 @@
 "Union","0901377830","2015","Percent","Housing Permits",0
 "Union","0901377830","2016","Number","Housing Permits",0
 "Union","0901377830","2016","Percent","Housing Permits",0
+"Union","0901377830","2017","Number","Housing Permits",3
+"Union","0901377830","2017","Percent","Housing Permits",0.1
 "Vernon","0901378250","1990","Number","Housing Permits",30
 "Vernon","0901378250","1990","Percent","Housing Permits",0.4
 "Vernon","0901378250","1991","Number","Housing Permits",17
@@ -7910,6 +8201,8 @@
 "Vernon","0901378250","2015","Percent","Housing Permits",2.9
 "Vernon","0901378250","2016","Number","Housing Permits",111
 "Vernon","0901378250","2016","Percent","Housing Permits",2
+"Vernon","0901378250","2017","Number","Housing Permits",112
+"Vernon","0901378250","2017","Percent","Housing Permits",2.5
 "Voluntown","0901178600","1990","Number","Housing Permits",19
 "Voluntown","0901178600","1990","Percent","Housing Permits",0.2
 "Voluntown","0901178600","1991","Number","Housing Permits",16
@@ -7964,6 +8257,8 @@
 "Voluntown","0901178600","2015","Percent","Housing Permits",0.1
 "Voluntown","0901178600","2016","Number","Housing Permits",5
 "Voluntown","0901178600","2016","Percent","Housing Permits",0.1
+"Voluntown","0901178600","2017","Number","Housing Permits",1
+"Voluntown","0901178600","2017","Percent","Housing Permits",0
 "Wallingford","0900978740","1990","Number","Housing Permits",105
 "Wallingford","0900978740","1990","Percent","Housing Permits",1.3
 "Wallingford","0900978740","1991","Number","Housing Permits",110
@@ -8018,6 +8313,8 @@
 "Wallingford","0900978740","2015","Percent","Housing Permits",0.3
 "Wallingford","0900978740","2016","Number","Housing Permits",22
 "Wallingford","0900978740","2016","Percent","Housing Permits",0.4
+"Wallingford","0900978740","2017","Number","Housing Permits",24
+"Wallingford","0900978740","2017","Percent","Housing Permits",0.5
 "Warren","0900579510","1990","Number","Housing Permits",12
 "Warren","0900579510","1990","Percent","Housing Permits",0.2
 "Warren","0900579510","1991","Number","Housing Permits",3
@@ -8072,6 +8369,8 @@
 "Warren","0900579510","2015","Percent","Housing Permits",0
 "Warren","0900579510","2016","Number","Housing Permits",1
 "Warren","0900579510","2016","Percent","Housing Permits",0
+"Warren","0900579510","2017","Number","Housing Permits",0
+"Warren","0900579510","2017","Percent","Housing Permits",0
 "Washington","0900579720","1990","Number","Housing Permits",8
 "Washington","0900579720","1990","Percent","Housing Permits",0.1
 "Washington","0900579720","1991","Number","Housing Permits",6
@@ -8126,6 +8425,8 @@
 "Washington","0900579720","2015","Percent","Housing Permits",0.1
 "Washington","0900579720","2016","Number","Housing Permits",4
 "Washington","0900579720","2016","Percent","Housing Permits",0.1
+"Washington","0900579720","2017","Number","Housing Permits",4
+"Washington","0900579720","2017","Percent","Housing Permits",0.1
 "Waterbury","0900980070","1990","Number","Housing Permits",354
 "Waterbury","0900980070","1990","Percent","Housing Permits",4.5
 "Waterbury","0900980070","1991","Number","Housing Permits",239
@@ -8180,6 +8481,8 @@
 "Waterbury","0900980070","2015","Percent","Housing Permits",1.2
 "Waterbury","0900980070","2016","Number","Housing Permits",40
 "Waterbury","0900980070","2016","Percent","Housing Permits",0.7
+"Waterbury","0900980070","2017","Number","Housing Permits",29
+"Waterbury","0900980070","2017","Percent","Housing Permits",0.6
 "Waterford","0901180280","1990","Number","Housing Permits",37
 "Waterford","0901180280","1990","Percent","Housing Permits",0.5
 "Waterford","0901180280","1991","Number","Housing Permits",42
@@ -8234,6 +8537,8 @@
 "Waterford","0901180280","2015","Percent","Housing Permits",0.1
 "Waterford","0901180280","2016","Number","Housing Permits",17
 "Waterford","0901180280","2016","Percent","Housing Permits",0.3
+"Waterford","0901180280","2017","Number","Housing Permits",23
+"Waterford","0901180280","2017","Percent","Housing Permits",0.5
 "Watertown","0900580490","1990","Number","Housing Permits",112
 "Watertown","0900580490","1990","Percent","Housing Permits",1.4
 "Watertown","0900580490","1991","Number","Housing Permits",60
@@ -8288,6 +8593,8 @@
 "Watertown","0900580490","2015","Percent","Housing Permits",0.1
 "Watertown","0900580490","2016","Number","Housing Permits",20
 "Watertown","0900580490","2016","Percent","Housing Permits",0.4
+"Watertown","0900580490","2017","Number","Housing Permits",21
+"Watertown","0900580490","2017","Percent","Housing Permits",0.5
 "Westbrook","0900781680","1990","Number","Housing Permits",11
 "Westbrook","0900781680","1990","Percent","Housing Permits",0.1
 "Westbrook","0900781680","1991","Number","Housing Permits",17
@@ -8342,6 +8649,8 @@
 "Westbrook","0900781680","2015","Percent","Housing Permits",0.8
 "Westbrook","0900781680","2016","Number","Housing Permits",15
 "Westbrook","0900781680","2016","Percent","Housing Permits",0.3
+"Westbrook","0900781680","2017","Number","Housing Permits",6
+"Westbrook","0900781680","2017","Percent","Housing Permits",0.1
 "West Hartford","0900382590","1990","Number","Housing Permits",27
 "West Hartford","0900382590","1990","Percent","Housing Permits",0.3
 "West Hartford","0900382590","1991","Number","Housing Permits",60
@@ -8396,6 +8705,8 @@
 "West Hartford","0900382590","2015","Percent","Housing Permits",1.7
 "West Hartford","0900382590","2016","Number","Housing Permits",51
 "West Hartford","0900382590","2016","Percent","Housing Permits",0.9
+"West Hartford","0900382590","2017","Number","Housing Permits",72
+"West Hartford","0900382590","2017","Percent","Housing Permits",1.6
 "West Haven","0900982870","1990","Number","Housing Permits",38
 "West Haven","0900982870","1990","Percent","Housing Permits",0.5
 "West Haven","0900982870","1991","Number","Housing Permits",44
@@ -8450,6 +8761,8 @@
 "West Haven","0900982870","2015","Percent","Housing Permits",0.4
 "West Haven","0900982870","2016","Number","Housing Permits",75
 "West Haven","0900982870","2016","Percent","Housing Permits",1.4
+"West Haven","0900982870","2017","Number","Housing Permits",73
+"West Haven","0900982870","2017","Percent","Housing Permits",1.6
 "Weston","0900183430","1990","Number","Housing Permits",12
 "Weston","0900183430","1990","Percent","Housing Permits",0.2
 "Weston","0900183430","1991","Number","Housing Permits",10
@@ -8504,6 +8817,8 @@
 "Weston","0900183430","2015","Percent","Housing Permits",0.1
 "Weston","0900183430","2016","Number","Housing Permits",14
 "Weston","0900183430","2016","Percent","Housing Permits",0.3
+"Weston","0900183430","2017","Number","Housing Permits",10
+"Weston","0900183430","2017","Percent","Housing Permits",0.2
 "Westport","0900183500","1990","Number","Housing Permits",15
 "Westport","0900183500","1990","Percent","Housing Permits",0.2
 "Westport","0900183500","1991","Number","Housing Permits",15
@@ -8558,6 +8873,8 @@
 "Westport","0900183500","2015","Percent","Housing Permits",1.5
 "Westport","0900183500","2016","Number","Housing Permits",66
 "Westport","0900183500","2016","Percent","Housing Permits",1.2
+"Westport","0900183500","2017","Number","Housing Permits",159
+"Westport","0900183500","2017","Percent","Housing Permits",3.5
 "Wethersfield","0900384900","1990","Number","Housing Permits",18
 "Wethersfield","0900384900","1990","Percent","Housing Permits",0.2
 "Wethersfield","0900384900","1991","Number","Housing Permits",19
@@ -8612,6 +8929,8 @@
 "Wethersfield","0900384900","2015","Percent","Housing Permits",0
 "Wethersfield","0900384900","2016","Number","Housing Permits",0
 "Wethersfield","0900384900","2016","Percent","Housing Permits",0
+"Wethersfield","0900384900","2017","Number","Housing Permits",8
+"Wethersfield","0900384900","2017","Percent","Housing Permits",0.2
 "Willington","0901385950","1990","Number","Housing Permits",19
 "Willington","0901385950","1990","Percent","Housing Permits",0.2
 "Willington","0901385950","1991","Number","Housing Permits",10
@@ -8666,6 +8985,8 @@
 "Willington","0901385950","2015","Percent","Housing Permits",0
 "Willington","0901385950","2016","Number","Housing Permits",28
 "Willington","0901385950","2016","Percent","Housing Permits",0.5
+"Willington","0901385950","2017","Number","Housing Permits",3
+"Willington","0901385950","2017","Percent","Housing Permits",0.1
 "Wilton","0900186370","1990","Number","Housing Permits",21
 "Wilton","0900186370","1990","Percent","Housing Permits",0.3
 "Wilton","0900186370","1991","Number","Housing Permits",33
@@ -8720,6 +9041,8 @@
 "Wilton","0900186370","2015","Percent","Housing Permits",0.1
 "Wilton","0900186370","2016","Number","Housing Permits",9
 "Wilton","0900186370","2016","Percent","Housing Permits",0.2
+"Wilton","0900186370","2017","Number","Housing Permits",7
+"Wilton","0900186370","2017","Percent","Housing Permits",0.2
 "Winchester","0900586440","1990","Number","Housing Permits",13
 "Winchester","0900586440","1990","Percent","Housing Permits",0.2
 "Winchester","0900586440","1991","Number","Housing Permits",14
@@ -8774,6 +9097,8 @@
 "Winchester","0900586440","2015","Percent","Housing Permits",0
 "Winchester","0900586440","2016","Number","Housing Permits",0
 "Winchester","0900586440","2016","Percent","Housing Permits",0
+"Winchester","0900586440","2017","Number","Housing Permits",1
+"Winchester","0900586440","2017","Percent","Housing Permits",0
 "Windham","0901586790","1990","Number","Housing Permits",30
 "Windham","0901586790","1990","Percent","Housing Permits",0.4
 "Windham","0901586790","1991","Number","Housing Permits",19
@@ -8828,6 +9153,8 @@
 "Windham","0901586790","2015","Percent","Housing Permits",0.1
 "Windham","0901586790","2016","Number","Housing Permits",3
 "Windham","0901586790","2016","Percent","Housing Permits",0.1
+"Windham","0901586790","2017","Number","Housing Permits",5
+"Windham","0901586790","2017","Percent","Housing Permits",0.1
 "Windsor","0900387000","1990","Number","Housing Permits",89
 "Windsor","0900387000","1990","Percent","Housing Permits",1.1
 "Windsor","0900387000","1991","Number","Housing Permits",83
@@ -8882,6 +9209,8 @@
 "Windsor","0900387000","2015","Percent","Housing Permits",0.3
 "Windsor","0900387000","2016","Number","Housing Permits",18
 "Windsor","0900387000","2016","Percent","Housing Permits",0.3
+"Windsor","0900387000","2017","Number","Housing Permits",9
+"Windsor","0900387000","2017","Percent","Housing Permits",0.2
 "Windsor Locks","0900387070","1990","Number","Housing Permits",42
 "Windsor Locks","0900387070","1990","Percent","Housing Permits",0.5
 "Windsor Locks","0900387070","1991","Number","Housing Permits",17
@@ -8936,6 +9265,8 @@
 "Windsor Locks","0900387070","2015","Percent","Housing Permits",0.4
 "Windsor Locks","0900387070","2016","Number","Housing Permits",21
 "Windsor Locks","0900387070","2016","Percent","Housing Permits",0.4
+"Windsor Locks","0900387070","2017","Number","Housing Permits",173
+"Windsor Locks","0900387070","2017","Percent","Housing Permits",3.8
 "Wolcott","0900987560","1990","Number","Housing Permits",50
 "Wolcott","0900987560","1990","Percent","Housing Permits",0.6
 "Wolcott","0900987560","1991","Number","Housing Permits",54
@@ -8990,6 +9321,8 @@
 "Wolcott","0900987560","2015","Percent","Housing Permits",0.4
 "Wolcott","0900987560","2016","Number","Housing Permits",17
 "Wolcott","0900987560","2016","Percent","Housing Permits",0.3
+"Wolcott","0900987560","2017","Number","Housing Permits",19
+"Wolcott","0900987560","2017","Percent","Housing Permits",0.4
 "Woodbridge","0900987700","1990","Number","Housing Permits",55
 "Woodbridge","0900987700","1990","Percent","Housing Permits",0.7
 "Woodbridge","0900987700","1991","Number","Housing Permits",20
@@ -9044,6 +9377,8 @@
 "Woodbridge","0900987700","2015","Percent","Housing Permits",0.1
 "Woodbridge","0900987700","2016","Number","Housing Permits",0
 "Woodbridge","0900987700","2016","Percent","Housing Permits",0
+"Woodbridge","0900987700","2017","Number","Housing Permits",0
+"Woodbridge","0900987700","2017","Percent","Housing Permits",0
 "Woodbury","0900587910","1990","Number","Housing Permits",47
 "Woodbury","0900587910","1990","Percent","Housing Permits",0.6
 "Woodbury","0900587910","1991","Number","Housing Permits",31
@@ -9098,6 +9433,8 @@
 "Woodbury","0900587910","2015","Percent","Housing Permits",0.1
 "Woodbury","0900587910","2016","Number","Housing Permits",8
 "Woodbury","0900587910","2016","Percent","Housing Permits",0.1
+"Woodbury","0900587910","2017","Number","Housing Permits",24
+"Woodbury","0900587910","2017","Percent","Housing Permits",0.5
 "Woodstock","0901588190","1990","Number","Housing Permits",52
 "Woodstock","0901588190","1990","Percent","Housing Permits",0.7
 "Woodstock","0901588190","1991","Number","Housing Permits",24
@@ -9152,3 +9489,5 @@
 "Woodstock","0901588190","2015","Percent","Housing Permits",0.2
 "Woodstock","0901588190","2016","Number","Housing Permits",8
 "Woodstock","0901588190","2016","Percent","Housing Permits",0.1
+"Woodstock","0901588190","2017","Number","Housing Permits",10
+"Woodstock","0901588190","2017","Percent","Housing Permits",0.2

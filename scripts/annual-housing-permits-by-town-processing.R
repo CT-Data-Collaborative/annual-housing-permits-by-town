@@ -70,7 +70,7 @@ permits_long_fips <- permits_long_fips %>%
 # Write to File
 write.table(
   permits_long_fips,
-  file.path(getwd(), "data", "annual-housing-permits-by-town_2016.csv"),
+  file.path(getwd(), "data", "annual-housing-permits-by-town_2017.csv"),
   sep = ",",
   row.names = F,
   na = "-9999"
